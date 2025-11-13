@@ -26,7 +26,7 @@ The treebank covers fundamental constructions including simple clauses, possessi
 
 # Acknowledgments
 
-We thank Cemile Çelebi for making this data available from her Master's thesis research on grammatical gender in Bezeynî Kurdish.
+ُُُThanks to Cemile Çelebi for making this data available from her Master's thesis research on grammatical gender in Bezeynî Kurdish.
 
 ## References
 
