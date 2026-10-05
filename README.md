@@ -20,9 +20,9 @@ UD Northern Kurdish-Bezeyni is a treebank of Northern Kurdish (Bezeyni, ISO 639-
 - **Data provider:** Cemile Celebi
 - **UD annotation:** Hiwa
 - **Contributors:**
-  - Cemile Celebi (data collection and linguistic analysis)
   - Hiwa (UD annotation and treebank preparation)
-  - [Future contributor placeholder]
+  - Cemile Celebi (data collection and linguistic analysis)
+  - Annemarie Verkerk (supervision)
 - **Contact:** hiwa@example.com
 - **Data source:** Celebi, Cemile (2021). Zur Frage des grammatischen Genus im Bezeyni-Kurdischen: Eine empirische Untersuchung am Beispiel der Turin-Varietaet. Unpublished MA thesis, Goethe-Universitaet Frankfurt. Data collected from 8 Bezeyni native-speaker women from Turin village, Haymana district, Ankara province, Turkey.
 - **Annotation guidelines:** Universal Dependencies guidelines, with language-specific decisions for Northern Kurdish Bezeyni documented in the repository.
