@@ -1,0 +1,4 @@
+﻿# Force LF line endings in .conllu files, per UD requirements
+*.conllu text eol=lf
+*.md     text eol=lf
+*.json   text eol=lf
