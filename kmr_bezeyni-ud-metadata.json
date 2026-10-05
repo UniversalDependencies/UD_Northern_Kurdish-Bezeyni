@@ -14,9 +14,10 @@
   "sentences_train": 119,
   "sentences_dev": 26,
   "sentences_test": 25,
-  "tokens_train": 600,
-  "tokens_dev": 149,
+  "tokens_train": 602,
+  "tokens_dev": 147,
   "tokens_test": 140,
   "total_sentences": 170,
   "total_tokens": 889
 }
+

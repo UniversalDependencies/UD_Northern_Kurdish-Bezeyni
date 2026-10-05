@@ -39,8 +39,8 @@ UD Northern Kurdish-Bezeyni is a treebank of Northern Kurdish (Bezeyni, ISO 639-
 
 ## Data splits
 
-- kmr_bezeyni-ud-train.conllu - training data (119 sentences, 600 tokens)
-- kmr_bezeyni-ud-dev.conllu   - development data (26 sentences, 149 tokens)
+- kmr_bezeyni-ud-train.conllu - training data (119 sentences, 602 tokens)
+- kmr_bezeyni-ud-dev.conllu   - development data (26 sentences, 147 tokens)
 - kmr_bezeyni-ud-test.conllu  - test data (25 sentences, 140 tokens)
 
 ## Acknowledgments
