@@ -1,218 +1,81 @@
 # sent_id = train_0001
-# text = Va rîyay .
-1	Va	Va	NOUN	_	_	2	nsubj	_	_
-2	rîyay	ya	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0002
-# text = Jine rîyay .
-1	Jine	jin	NOUN	_	_	2	nsubj	_	_
-2	rîyay	ya	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0003
-# text = Mêrike rîyay .
-1	Mêrike	Mêrik	PROPN	_	_	2	nsubj	_	_
-2	rîyay	ya	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0004
-# text = Pese je axurê îwe riderkefî .
-1	Pese	pes	ADV	_	_	5	advmod	_	_
-2	je	bûn	ADP	_	_	3	case	_	_
-3	axurê	axur	NOUN	_	_	5	nsubj	_	_
-4	îwe	îwe	PRON	_	Person=2|PronType=Prs	3	nmod:poss	_	_
-5	riderkefî	rerkeftin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0005
-# text = Jingel rîyayn .
-1	Jingel	jin	NOUN	_	_	2	nsubj	_	_
-2	rîyayn	ya	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0006
-# text = Mêrdgel hattigin .
-1	Mêrdgel	Mêrd	PROPN	_	_	2	nsubj	_	_
-2	hattigin	hatin	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0007
-# text = Mêrdi jine .
-1	Mêrdi	mêrdi	NOUN	_	_	0	root	_	_
-2	jine	jin	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0008
-# text = Jini mêrde .
-1	Jini	Jin	NOUN	_	_	0	root	_	_
-2	mêrde	mêrd	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0009
-# text = Rûjê xelatê .
-1	Rûjê	rûj	NOUN	_	_	0	root	_	_
-2	xelatê	xelat	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0010
-# text = Diranê nüyağê .
-1	Diranê	diran	NOUN	_	_	0	root	_	_
-2	nüyağê	nüyağ	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0011
-# text = Wakî kerê .
-1	Wakî	wak	NOUN	_	_	0	root	_	_
-2	kerê	ker	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0012
-# text = Nani şîmî ma ?
-1	Nani	nan	NOUN	_	_	3	nsubj	_	_
-2	şîmî	şîmî	NOUN	_	_	1	nmod:poss	_	_
-3	ma	man	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	?	?	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0013
-# text = Nawçê şewe wî !
-1	Nawçê	nawçe	ADV	_	_	3	advmod	_	_
-2	şewe	şew	NOUN	_	_	1	nmod:poss	_	_
-3	wî	wîn	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	!	!	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0014
-# text = Mêriki jine .
-1	Mêriki	mêrik	NOUN	_	_	0	root	_	_
-2	jine	jin	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0015
-# text = Jine mêrikê .
-1	Jine	jin	NOUN	_	_	0	root	_	_
-2	mêrikê	mêrik	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0016
-# text = Orağeli jine .
-1	Orağeli	orağ	NOUN	_	_	0	root	_	_
-2	jine	jin	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0017
-# text = Jine orağelê .
-1	Jine	jin	NOUN	_	_	0	root	_	_
-2	orağelê	orağ	NOUN	_	_	1	compound:lvc	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0018
-# text = Mêrike jingelê çûn we dêye .
-1	Mêrike	Mêrik	NOUN	_	_	3	nsubj	_	_
-2	jingelê	jin	NOUN	_	_	1	nmod:poss	_	_
-3	çûn	çûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	we	we	ADP	_	_	5	case	_	_
-5	dêye	dan	NOUN	_	_	3	iobj	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0019
 # text = Jingeli mêrikel .
 1	Jingeli	jin	NOUN	_	_	0	root	_	_
 2	mêrikel	mêrik	NOUN	_	_	1	nmod:poss	_	_
 3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0020
-# text = Mêrikel jingelêyan .
-1	Mêrikel	Mêrik	PROPN	_	_	0	root	_	_
-2-3	jingelêyan	_	_	_	_	_	_	_	_
-2	jingelê	jin	NOUN	_	_	1	nmod:poss	_	_
-3	yan	yan	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
+# sent_id = train_0002
+# text = Doxtirê ê jine .
+1	Doxtirê	doxtir	NOUN	_	_	0	root	_	_
+2	ê	ê	DET	_	PronType=Dem	3	det	_	_
+3	jine	jin	NOUN	_	_	1	nmod:poss	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0021
-# text = Kuneyi male .
-1	Kuneyi	kune	NOUN	_	_	0	root	_	_
-2	male	mal	NOUN	_	_	1	nmod:poss	_	_
+# sent_id = train_0003
+# text = Wowiki tu .
+1	Wowiki	wowik	NOUN	_	_	0	root	_	_
+2	tu	tu	PRON	_	Person=2|PronType=Prs	1	nmod:poss	_	_
 3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0022
-# text = Male kunê .
-1	Male	mal	NOUN	_	_	0	root	_	_
-2-3	kunê	_	_	_	_	_	_	_	_
-2	kun	kun	NOUN	_	_	1	nmod:poss	_	_
-3	ê	ê	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0023
-# text = Bani nane risuzî .
-1	Bani	ban	ADV	_	_	3	nsubj	_	_
-2	nane	nan	NOUN	_	_	1	nmod:poss	_	_
-3	risuzî	suzîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# sent_id = train_0004
+# text = Îme îwe rîn .
+1	Îme	Îme	PRON	_	Person=1|PronType=Prs	3	nsubj	_	_
+2	îwe	îwe	PRON	_	Person=2|PronType=Prs	3	obj	_	_
+3	rîn	rîn	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = train_0024
-# text = Nane banê risuzî .
-1	Nane	nan	NOUN	_	_	3	nsubj	_	_
-2	banê	ban	NOUN	_	_	1	nmod:poss	_	_
-3	risuzî	suzîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	.	.	PUNCT	_	_	3	punct	_	_
+# sent_id = train_0005
+# text = Ay xalikê dalikime .
+1	Ay	ay	DET	_	PronType=Dem	2	det	_	_
+2	xalikê	xalik	NOUN	_	_	3	nmod:poss	_	_
+3-4	dalikime	_	_	_	_	_	_	_	_
+3	dalik	dalik	NOUN	_	_	0	root	_	_
+4	ime	im	PRON	_	Person=3|PronType=Prs	3	nmod:poss	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = train_0025
-# text = Bawoki min ow mîmikelê .
-1	Bawoki	Bawok	PROPN	_	_	0	root	_	_
-2	min	min	PRON	_	Person=1|PronType=Prs	1	nmod:poss	_	_
-3	ow	ow	DET	_	PronType=Dem	4	det	_	_
-4-5	mîmikelê	_	_	_	_	_	_	_	_
-4	mîmikel	mîmik	NOUN	_	_	1	nmod:poss	_	_
-5	ê	ê	PRON	_	Person=3|PronType=Prs	4	nmod:poss	_	_
-6	.	.	PUNCT	_	_	1	punct	_	_
+# sent_id = train_0006
+# text = Jinê ser / serê / serî kênîğe .
+1	Jinê	jin	NOUN	_	_	0	root	_	_
+2	ser	ser	ADV	_	_	7	advmod	_	_
+3	/	/	PUNCT	_	_	2	punct	_	_
+4	serê	ser	ADV	_	_	7	advmod	_	_
+5	/	/	PUNCT	_	_	4	punct	_	_
+6	serî	ser	ADV	_	_	7	advmod	_	_
+7	kênîğe	kênîğ	NOUN	_	_	1	nmod:poss	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0026
-# text = Ow mîmikeli wowikim .
+# sent_id = train_0007
+# text = Ê ke sîr nêxwarî bûwe jê nîyay .
+1	Ê	yê	PRON	_	Person=3|PronType=Prs	7	nsubj	_	_
+2	ke	ke	PART	_	_	4	nsubj	_	_
+3	sîr	sîr	NOUN	_	_	4	obj	_	_
+4	nêxwarî	xwarîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+5	bûwe	bûwe	NOUN	_	_	7	obj	_	_
+6	jê	jê	ADP	_	_	7	case	_	_
+7	nîyay	yayîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = train_0008
+# text = Ow vevîyê û zaway tuwe .
 1	Ow	ow	DET	_	PronType=Dem	2	det	_	_
-2	mîmikeli	mîmik	NOUN	_	_	0	root	_	_
-3-4	wowikim	_	_	_	_	_	_	_	_
-3	wowik	wowik	NOUN	_	_	2	nmod:poss	_	_
-4	im	im	PRON	_	Person=1|PronType=Prs	3	nmod:poss	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
+2	vevîyê	vevî	NOUN	_	_	0	root	_	_
+3	û	û	CCONJ	_	_	4	cc	_	_
+4	zaway	zawa	NOUN	_	_	2	conj	_	_
+5	tuwe	tu	PRON	_	Person=2|PronType=Prs	4	nmod:poss	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = train_0027
-# text = Xware kefte pişti köye .
-1	Xware	xware	NOUN	_	_	2	nsubj	_	_
-2-3	kefte	_	_	_	_	_	_	_	_
-2	keft	keftin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	e	e	ADP	_	_	4	case	_	_
-4	pişti	pişt	ADV	_	_	5	nsubj	_	_
-5	köye	körin	NOUN	_	_	2	iobj	_	_
+# sent_id = train_0009
+# text = Jan keftige serê .
+1	Jan	jan	NOUN	_	_	2	nsubj	_	_
+2-3	keftige	_	_	_	_	_	_	_	_
+2	keftig	keftin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	e	ye	ADP	_	_	4	case	_	_
+4-5	serê	_	_	_	_	_	_	_	_
+4	ser	ser	NOUN	_	_	2	iobj	_	_
+5	ê	ê	PRON	_	Person=3|PronType=Prs	4	nmod:poss	_	_
 6	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = train_0028
-# text = Je dö şewow variş divarî .
-1	Je	Je	ADP	_	_	2	case	_	_
-2	dö	dö	ADV	_	_	3	advmod	_	_
-3	şewow	şew	NOUN	_	_	5	obl	_	_
-4	variş	variş	NOUN	_	_	5	compound:lvc	_	_
-5	divarî	varîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0029
-# text = Jinne ve orağîkî a riyay .
-1	Jinne	Jin	NOUN	_	_	5	nsubj	_	_
-2	ve	ve	ADP	_	_	3	case	_	_
-3	orağîkî	orağ	ADJ	_	_	5	obl	_	_
-4	a	a	DET	_	PronType=Dem	3	det	_	_
-5	riyay	riyay	ADJ	_	_	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0030
-# text = We / ra kesî mewîş !
-1	We	We	ADP	_	_	4	case	_	_
-2	/	/	PUNCT	_	_	1	punct	_	_
-3	ra	ra	ADP	_	_	4	case	_	_
-4	kesî	kes	NOUN	_	_	5	iobj	_	_
-5	mewîş	wîşin	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	!	!	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0031
+# sent_id = train_0010
 # text = Vevîyê mali Huso Elê .
 1	Vevîyê	Vevî	NOUN	_	_	0	root	_	_
 2	mali	mal	NOUN	_	_	1	nmod:poss	_	_
@@ -220,29 +83,7 @@
 4	Elê	El	PROPN	_	Gender=Fem	3	nmod:poss	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0032
-# text = Mîzo , îwarige dîsa mîz kirdige .
-1	Mîzo	mîz	NOUN	_	Gender=Masc	6	nsubj	_	_
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	îwarige	îwarig	ADV	_	_	6	advmod	_	_
-4	dîsa	dîsa	ADV	_	_	6	advmod	_	_
-5	mîz	mîz	NOUN	_	_	6	compound:lvc	_	_
-6	kirdige	kirtin	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0033
-# text = Kî ke vercê kî we kî vit rişkê !
-1	Kî	kî	PRON	_	PronType=Dem	2	nsubj	_	_
-2	ke	ketin	PART	_	_	3	discourse	_	_
-3	vercê	vercê	ADV	_	_	7	advmod	_	_
-4	kî	kî	PRON	_	PronType=Dem	7	nsubj	_	_
-5	we	we	ADP	_	_	6	case	_	_
-6	kî	ku	PRON	_	PronType=Rel	7	iobj	_	_
-7	vit	vitin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	rişkê	rişk	NOUN	_	Gender=Fem	7	obl:dat	_	_
-9	!	!	PUNCT	_	_	7	punct	_	_
-
-# sent_id = train_0034
+# sent_id = train_0011
 # text = Mêrike ke tu rîyê , gewretiri dêyawe .
 1	Mêrike	Mêrik	NOUN	_	_	4	acl	_	_
 2	ke	ke	PART	_	_	8	nsubj	_	_
@@ -255,43 +96,88 @@
 8	we	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = train_0035
-# text = Awgele ke , je herdu çeme diherikin .
-1	Awgele	aw	NOUN	_	_	7	acl	_	_
-2	ke	ke	PART	_	_	7	nsubj	_	_
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	je	je	ADP	_	_	2	conj	_	_
-5	herdu	herdu	DET	_	PronType=Dem	6	det	_	_
-6	çeme	çem	NOUN	_	_	7	obj	_	_
-7	diherikin	herikin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
+# sent_id = train_0012
+# text = Mêrdê qerdare .
+1	Mêrdê	Mêrd	NOUN	_	_	0	root	_	_
+2	qerdare	qerdar	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0036
-# text = Öwwe ke temezîy ğizika le serê ye .
-1	Öwwe	öwé	DET	_	PronType=Dem	2	det	_	_
-2	ke	ke	PART	_	_	8	nsubj	_	_
-3	temezîy	temezî	ADJ	_	_	4	nmod:poss	_	_
-4	ğizika	ğizik	NOUN	_	_	2	obj	_	_
-5	le	le	ADP	_	_	6	case	_	_
-6-7	serê	_	_	_	_	_	_	_	_
-6	ser	ser	NOUN	_	_	8	obl	_	_
-7	ê	ê	PRON	_	Person=3|PronType=Prs	6	nmod:poss	_	_
-8	ye	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	.	.	PUNCT	_	_	8	punct	_	_
+# sent_id = train_0013
+# text = Çendanî wisen !
+1	Çendanî	çend	PRON	_	Person=3|PronType=Prs	2	nsubj	_	_
+2	wisen	senîn	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	!	!	PUNCT	_	_	2	punct	_	_
 
-# sent_id = train_0037
+# sent_id = train_0014
+# text = Nîmîkî rûje .
+1	Nîmîkî	nîm	NOUN	_	_	2	nmod:poss	_	_
+2	rûje	rûj	NOUN	_	_	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0015
+# text = Mêrike rîyay .
+1	Mêrike	Mêrik	PROPN	_	_	2	nsubj	_	_
+2	rîyay	ya	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0016
+# text = Mêriki jine .
+1	Mêriki	mêrik	NOUN	_	_	0	root	_	_
+2	jine	jin	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0017
 # text = Jine riwînim .
 1	Jine	jin	NOUN	_	_	2	obj	_	_
 2	riwînim	wînin	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = train_0038
-# text = Mêrike riwînim .
-1	Mêrike	Mêrik	PROPN	_	_	2	obj	_	_
-2	riwînim	wînin	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
+# sent_id = train_0018
+# text = Germatîya awe .
+1	Germatîya	germatî	NOUN	_	_	0	root	_	_
+2	awe	aw	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0039
+# sent_id = train_0019
+# text = Min û Fatme rîn êtan .
+1	Min	Min	PRON	_	Person=1|PronType=Prs	4	nsubj	_	_
+2	û	û	CCONJ	_	_	3	cc	_	_
+3	Fatme	Fatme	PROPN	_	Gender=Fem	1	conj	_	_
+4	rîn	rîn	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5-6	êtan	_	_	_	_	_	_	_	_
+5	ê	wê	ADP	_	_	6	case	_	_
+6	tan	tan	PRON	_	Person=2|PronType=Prs	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = train_0020
+# text = Xwezîke ke karî brewê hewaya .
+1	Xwezîke	xwezîke	X	_	_	6	discourse	_	_
+2	ke	ketin	ADV	_	_	6	advmod	_	_
+3	karî	kar	NOUN	_	_	6	nsubj	_	_
+4-5	brewê	_	_	_	_	_	_	_	_
+4	brew	brew	NOUN	_	_	3	nmod:poss	_	_
+5	ê	ê	PRON	_	Person=3|PronType=Prs	4	nmod	_	_
+6	hewaya	wûn	VERB	_	Mood=Sub|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = train_0021
+# text = Kanan wê dim ?
+1	Kanan	kanan	PRON	_	Person=3|PronType=Prs	3	obj	_	_
+2	wê	wê	ADP	_	_	3	compound:lvc	_	_
+3	dim	dan	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = train_0022
+# text = Janî re serit kefî .
+1	Janî	jan	NOUN	_	_	5	nsubj	_	_
+2	re	re	ADP	_	_	3	case	_	_
+3-4	serit	_	_	_	_	_	_	_	_
+3	ser	ser	NOUN	_	_	5	iobj	_	_
+4	it	it	PRON	_	Person=2|PronType=Prs	3	nmod:poss	_	_
+5	kefî	keftin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = train_0023
 # text = Mêrike nane / şîre rirîye döte .
 1	Mêrike	Mêrik	PROPN	_	_	5	nsubj	_	_
 2	nane	nan	NOUN	_	_	5	obl	_	_
@@ -303,38 +189,44 @@
 7	döte	döt	NOUN	_	_	5	iobj	_	_
 8	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = train_0040
-# text = Orağe nan birde mal .
-1	Orağe	orağ	NOUN	_	_	3	nsubj	_	_
-2	nan	nan	NOUN	_	_	3	obj	_	_
-3-4	birde	_	_	_	_	_	_	_	_
-3	bird	bird	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	e	e	ADP	_	_	5	case	_	_
-5	mal	mal	NOUN	_	_	3	iobj	_	_
+# sent_id = train_0024
+# text = Dötgelitan diwerîn we dîye .
+1-2	Dötgelitan	_	_	_	_	_	_	_	_
+1	Dötgeli	Döt	NOUN	_	_	3	nsubj	_	_
+2	tan	tan	PRON	_	Person=2|PronType=Prs	1	nmod:poss	_	_
+3	diwerîn	werîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	we	we	ADP	_	_	5	nsubj	_	_
+5	dîye	dî	NOUN	_	_	3	iobj	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = train_0041
-# text = Orağele helgirîne nawi xûman .
-1	Orağele	Orağ	NOUN	_	_	2	nsubj	_	_
-2-3	helgirîne	_	_	_	_	_	_	_	_
-2	helgirîn	helgirîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	e	e	ADP	_	_	4	case	_	_
-4	nawi	naw	ADV	_	_	5	advmod	_	_
-5	xûman	xûman	PRON	_	Person=1|PronType=Prs	2	iobj	_	_
-6	.	.	PUNCT	_	_	2	punct	_	_
+# sent_id = train_0025
+# text = Ewî / eye / eyî tiştîkî min newû .
+1	Ewî	Ewî	DET	_	PronType=Dem	8	nsubj	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	eye	eye	DET	_	PronType=Dem	8	discourse	_	_
+4	/	/	PUNCT	_	_	3	punct	_	_
+5	eyî	eyî	DET	_	PronType=Dem	8	discourse	_	_
+6	tiştîkî	tişt	NOUN	_	_	8	obj	_	_
+7	min	min	PRON	_	Person=1|PronType=Prs	6	nmod:poss	_	_
+8	newû	bûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = train_0042
-# text = Vevîgel û zawagel ( h ) awirdin .
-1	Vevîgel	Vevî	NOUN	_	_	7	nsubj	_	_
-2	û	û	CCONJ	_	_	3	cc	_	_
-3	zawagel	zawa	NOUN	_	_	1	conj	_	_
-4	(	(	PUNCT	_	_	5	punct	_	_
-5	h	h	PART	_	_	7	advmod	_	_
-6	)	)	PUNCT	_	_	5	punct	_	_
-7	awirdin	awirdin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
+# sent_id = train_0026
+# text = Va rîyay .
+1	Va	Va	NOUN	_	_	2	nsubj	_	_
+2	rîyay	ya	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = train_0043
+# sent_id = train_0027
+# text = Mêrike jingelê çûn we dêye .
+1	Mêrike	Mêrik	NOUN	_	_	3	nsubj	_	_
+2	jingelê	jin	NOUN	_	_	1	nmod:poss	_	_
+3	çûn	çûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	we	we	ADP	_	_	5	case	_	_
+5	dêye	dan	NOUN	_	_	3	iobj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = train_0028
 # text = Îwariğ manga rîyê , çi rind wî !
 1	Îwariğ	îwariğ	NOUN	_	_	2	nmod:poss	_	_
 2	manga	mang	NOUN	_	_	3	obj	_	_
@@ -345,7 +237,16 @@
 7	wî	wîn	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 8	!	!	PUNCT	_	_	7	punct	_	_
 
-# sent_id = train_0044
+# sent_id = train_0029
+# text = Dirani kî ? Ê Zozan .
+1	Dirani	Diran	NOUN	_	_	0	root	_	_
+2	kî	kî	PRON	_	Person=3|PronType=Dem	1	nmod:poss	_	_
+3	?	?	PUNCT	_	_	1	punct	_	_
+4	Ê	Ê	DET	_	PronType=Dem	5	det	_	_
+5	Zozan	Zozan	PROPN	_	_	1	conj	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = train_0030
 # text = Vevîyet diwerîn we dîye .
 1-2	Vevîyet	_	_	_	_	_	_	_	_
 1	Vevîye	Vevî	NOUN	_	_	3	nsubj	_	_
@@ -355,333 +256,29 @@
 5	dîye	dêy	NOUN	_	_	3	iobj	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = train_0045
-# text = Dötgelitan diwerîn we dîye .
-1-2	Dötgelitan	_	_	_	_	_	_	_	_
-1	Dötgeli	Döt	NOUN	_	_	3	nsubj	_	_
-2	tan	tan	PRON	_	Person=2|PronType=Prs	1	nmod:poss	_	_
-3	diwerîn	werîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	we	we	ADP	_	_	5	nsubj	_	_
-5	dîye	dî	NOUN	_	_	3	iobj	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0046
-# text = Sa kefte der malêyan .
-1	Sa	sa	NOUN	_	_	2	nsubj	_	_
-2-3	kefte	_	_	_	_	_	_	_	_
-2	keft	keftin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	e	e	ADP	_	_	4	case	_	_
-4	der	der	ADV	_	_	5	advmod	_	_
-5-6	malêyan	_	_	_	_	_	_	_	_
-5	malê	mal	NOUN	_	_	2	iobj	_	_
-6	yan	yan	PRON	_	Person=3|PronType=Prs	5	nmod:poss	_	_
-7	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0047
-# text = Le naw zikîyan .
-1	Le	le	ADP	_	_	2	case	_	_
-2	naw	naw	ADV	_	_	3	advmod	_	_
-3-4	zikîyan	_	_	_	_	_	_	_	_
-3	zikî	zik	NOUN	_	_	0	root	_	_
-4	yan	yan	PRON	_	Person=3|PronType=Prs	3	nmod:poss	_	_
-5	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0048
-# text = Kurê ewî le çarşîye riwîninê .
-1	Kurê	kur	NOUN	_	_	5	nsubj	_	_
-2	ewî	ewî	PRON	_	Person=3|PronType=Prs	1	nmod:poss	_	_
-3	le	le	ADP	_	_	4	case	_	_
-4	çarşîye	çarşî	NOUN	_	_	5	obl	_	_
-5	riwîninê	wînîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0049
-# text = Jine ke min diwînimê .
-1	Jine	jin	NOUN	_	_	4	acl	_	_
-2	ke	ke	PART	_	_	4	nsubj	_	_
-3	min	min	PRON	_	Person=1|PronType=Prs	4	obj	_	_
-4	diwînimê	wînîn	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0050
-# text = Zîyane suzandimê .
-1	Zîyane	zîyan	NOUN	_	_	2	obj	_	_
-2	suzandimê	suzandin	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0051
-# text = Îjliğel ra zawagel sendînê .
-1	Îjliğel	îjliğ	NOUN	_	_	4	obj	_	_
-2	ra	ra	ADP	_	_	3	case	_	_
-3	zawagel	zawa	NOUN	_	_	4	iobj	_	_
-4	sendînê	sendîn	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0052
-# text = Diwînim êyan .
-1	Diwînim	wînîn	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2-3	êyan	_	_	_	_	_	_	_	_
-2	ê	wê	ADP	_	_	3	case	_	_
-3	yan	yan	PRON	_	Person=3|PronType=Prs	1	obj	_	_
+# sent_id = train_0031
+# text = Mêrikel jingelêyan .
+1	Mêrikel	Mêrik	PROPN	_	_	0	root	_	_
+2-3	jingelêyan	_	_	_	_	_	_	_	_
+2	jingelê	jin	NOUN	_	_	1	nmod:poss	_	_
+3	yan	yan	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0053
-# text = Min û Fatme rîn êtan .
-1	Min	Min	PRON	_	Person=1|PronType=Prs	4	nsubj	_	_
-2	û	û	CCONJ	_	_	3	cc	_	_
-3	Fatme	Fatme	PROPN	_	Gender=Fem	1	conj	_	_
-4	rîn	rîn	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5-6	êtan	_	_	_	_	_	_	_	_
-5	ê	wê	ADP	_	_	6	case	_	_
-6	tan	tan	PRON	_	Person=2|PronType=Prs	4	obj	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0054
-# text = Ewî dikerîkê ke wikuşîk êman .
-1	Ewî	ew	PRON	_	Person=3|PronType=Prs	2	nsubj	_	_
-2	dikerîkê	kerîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
-3	ke	ke	PART	_	_	4	nsubj	_	_
-4	wikuşîk	kuşîn	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5-6	êman	_	_	_	_	_	_	_	_
-5	ê	wê	PART	_	_	6	nmod	_	_
-6	man	man	PRON	_	Person=1|PronType=Prs	4	obj	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0055
-# text = Îme îwe rîn .
-1	Îme	Îme	PRON	_	Person=1|PronType=Prs	3	nsubj	_	_
-2	îwe	îwe	PRON	_	Person=2|PronType=Prs	3	obj	_	_
-3	rîn	rîn	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-4	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0056
-# text = Way dötê tiwe söz dame wê .
-1-2	Way	_	_	_	_	_	_	_	_
-1	W	We	ADP	_	_	2	case	_	_
-2	ay	ay	DET	_	PronType=Dem	3	det	_	_
-3	dötê	döt	NOUN	_	_	7	iobj	_	_
-4-5	tiwe	_	_	_	_	_	_	_	_
-4	ti	ti	PRON	_	Person=2|PronType=Prs	3	nmod:poss	_	_
-5	we	we	DET	_	PronType=Dem	4	det	_	_
-6	söz	söz	NOUN	_	_	7	compound:lvc	_	_
-7-8	dame	_	_	_	_	_	_	_	_
-7	dam	dan	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-8	e	we	ADP	_	_	9	case	_	_
-9	wê	ew	PRON	_	Person=3|PronType=Prs	7	iobj	_	_
-10	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = train_0057
-# text = Ay jingeli îme çîçek dame wêyan .
-1	Ay	Ay	DET	_	PronType=Dem	2	det	_	_
-2	jingeli	jin	NOUN	_	_	6	iobj	_	_
-3-4	îme	_	_	_	_	_	_	_	_
-3	îme	îme	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
-4	e	e	DET	_	PronType=Dem	3	det	_	_
-5	çîçek	çîçek	NOUN	_	_	6	obj	_	_
-6-7	dame	_	_	_	_	_	_	_	_
-6	dam	dan	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-7	e	e	ADP	_	_	9	case	_	_
-8-9	wêyan	_	_	_	_	_	_	_	_
-8	wê	wê	ADV	_	_	9	advmod	_	_
-9	yan	yan	PRON	_	Person=3|PronType=Prs	6	iobj	_	_
-10	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0058
-# text = Min söz dame ow dötê ewî .
-1	Min	Min	PRON	_	Person=1|PronType=Prs	3	nsubj	_	_
-2	söz	söz	NOUN	_	_	3	compound:lvc	_	_
-3-4	dame	_	_	_	_	_	_	_	_
-3	dam	dan	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-4	e	we	ADP	_	_	5	case	_	_
-5	ow	ow	DET	_	PronType=Dem	6	det	_	_
-6	dötê	döt	NOUN	_	_	3	iobj	_	_
-7-8	ewî	_	_	_	_	_	_	_	_
-7	ewî	ewî	PRON	_	Person=3|PronType=Prs	6	nmod:poss	_	_
-8	ye	ye	DET	_	PronType=Dem	7	det	_	_
-9	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0059
-# text = Çîçek dame ay jingeli îme .
-1	Çîçek	çîçek	NOUN	_	_	2	obj	_	_
-2-3	dame	_	_	_	_	_	_	_	_
-2	dam	dan	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-3	e	we	ADP	_	_	4	case	_	_
-4	ay	ay	DET	_	PronType=Dem	5	det	_	_
-5	jingeli	jingeli	NOUN	_	_	2	iobj	_	_
-6-7	îme	_	_	_	_	_	_	_	_
-6	îme	îme	PRON	_	Person=1|PronType=Prs	5	nmod:poss	_	_
-7	e	e	DET	_	PronType=Dem	6	det	_	_
-8	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0060
-# text = Serê jan keftige wê .
-1-2	Serê	_	_	_	_	_	_	_	_
-1	Ser	Ser	NOUN	_	_	4	nsubj	_	_
-2	ê	ê	PRON	_	PronType=Prs	1	nmod:poss	_	_
-3	jan	jan	NOUN	_	_	1	nmod:poss	_	_
-4-5	keftige	_	_	_	_	_	_	_	_
-4	keftig	keftin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	compound:lvc	_	_
-6	wê	ew	PRON	_	Gender=Fem|Person=3|PronType=Prs	4	iobj	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0061
-# text = Jan keftige serê .
-1	Jan	jan	NOUN	_	_	2	nsubj	_	_
-2-3	keftige	_	_	_	_	_	_	_	_
-2	keftig	keftin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	e	ye	ADP	_	_	4	case	_	_
-4-5	serê	_	_	_	_	_	_	_	_
-4	ser	ser	NOUN	_	_	2	iobj	_	_
-5	ê	ê	PRON	_	Person=3|PronType=Prs	4	nmod:poss	_	_
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0062
-# text = Eye wer wê re .
-1	Eye	Eye	DET	_	PronType=Dem	2	obj	_	_
-2	wer	werin	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	wê	wê	ADV	_	_	4	compound:lvc	_	_
-4	re	dan	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0063
-# text = Vitime wê .
-1-2	Vitime	_	_	_	_	_	_	_	_
-1	Vitim	Vitin	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-2	e	e	ADP	_	_	3	case	_	_
-3	wê	wê	PRON	_	Gender=Fem|Person=3|PronType=Prs	1	iobj	_	_
+# sent_id = train_0032
+# text = Dötê rindê min .
+1	Dötê	döt	NOUN	_	_	0	root	_	_
+2	rindê	rind	ADJ	_	_	1	amod	_	_
+3	min	min	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0064
-# text = Herriğe we seri tu !
-1	Herriğe	Herriğ	NOUN	_	_	3	nsubj	_	_
-2	we	we	ADP	_	_	3	case	_	_
-3	seri	ser	NOUN	_	_	0	root	_	_
-4	tu	tu	PRON	_	Person=2|PronType=Prs	3	nmod:poss	_	_
-5	!	!	PUNCT	_	_	3	punct	_	_
+# sent_id = train_0033
+# text = Brangê gewray ewî .
+1	Brangê	brang	NOUN	_	_	0	root	_	_
+2	gewray	gewra	NOUN	_	_	1	nmod:poss	_	_
+3	ewî	ewî	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0065
-# text = Humîre ra derdgel gî dewawe .
-1	Humîre	humîr	ADV	_	_	6	nsubj	_	_
-2	ra	ra	ADP	_	_	3	case	_	_
-3	derdgel	derd	NOUN	_	_	6	obl	_	_
-4	gî	gî	ADV	_	_	5	advmod	_	_
-5-6	dewawe	_	_	_	_	_	_	_	_
-5	dewa	dewa	NOUN	_	_	6	compound:lvc	_	_
-6	we	we	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0066
-# text = Janî re serit kefî .
-1	Janî	jan	NOUN	_	_	5	nsubj	_	_
-2	re	re	ADP	_	_	3	case	_	_
-3-4	serit	_	_	_	_	_	_	_	_
-3	ser	ser	NOUN	_	_	5	iobj	_	_
-4	it	it	PRON	_	Person=2|PronType=Prs	3	nmod:poss	_	_
-5	kefî	keftin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0067
-# text = Jinî rîm , weki mangi çwardê şewe .
-1	Jinî	Jin	NOUN	_	_	2	nsubj	_	_
-2	rîm	rîyin	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-3	,	,	PUNCT	_	_	2	punct	_	_
-4	weki	wek	ADV	_	_	5	advmod	_	_
-5	mangi	mang	NOUN	_	_	8	obl	_	_
-6	çwardê	çwardê	NOUN	_	_	5	nmod:poss	_	_
-7-8	şewe	_	_	_	_	_	_	_	_
-7	şew	şew	NOUN	_	_	6	amod	_	_
-8	e	bûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-9	.	.	PUNCT	_	_	8	punct	_	_
-
-# sent_id = train_0068
-# text = Mali jinî tim düzenlî ra wû .
-1	Mali	mal	NOUN	_	_	6	nsubj	_	_
-2	jinî	jin	NOUN	_	_	1	nmod:poss	_	_
-3	tim	tim	ADV	_	_	4	advmod	_	_
-4	düzenlî	düzenlî	ADV	_	_	6	obj	_	_
-5	ra	ra	X	_	_	6	compound:lvc	_	_
-6	wû	wûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0069
-# text = De destê çuwîke .
-1	De	di	ADP	_	_	2	case	_	_
-2-3	destê	_	_	_	_	_	_	_	_
-2	dest	dest	NOUN	_	_	0	root	_	_
-3	ê	ê	PRON	_	Person=3|PronType=Prs	2	nmod	_	_
-4	çuwîke	çuw	NOUN	_	_	2	amod	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0070
-# text = Xwezîke ke karî brewê hewaya .
-1	Xwezîke	xwezîke	X	_	_	6	discourse	_	_
-2	ke	ketin	ADV	_	_	6	advmod	_	_
-3	karî	kar	NOUN	_	_	6	nsubj	_	_
-4-5	brewê	_	_	_	_	_	_	_	_
-4	brew	brew	NOUN	_	_	3	nmod:poss	_	_
-5	ê	ê	PRON	_	Person=3|PronType=Prs	4	nmod	_	_
-6	hewaya	wûn	VERB	_	Mood=Sub|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0071
-# text = Eye wer , we wî rê !
-1	Eye	Eye	DET	_	PronType=Dem	2	nsubj	_	_
-2	wer	werîn	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	,	,	PUNCT	_	_	2	punct	_	_
-4	we	we	ADP	_	_	5	case	_	_
-5	wî	ewî	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	iobj	_	_
-6	rê	dan	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
-7	!	!	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0072
-# text = Eve werîne , bide wê / wî .
-1	Eve	eve	PRON	_	Person=3|PronType=Prs	2	nsubj	_	_
-2	werîne	werîn	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	,	,	PUNCT	_	_	2	punct	_	_
-4	bide	dan	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
-5	wê	ewê	NOUN	_	Gender=Fem	4	obl	_	_
-6	/	/	PUNCT	_	_	5	punct	_	_
-7	wî	ewî	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	iobj	_	_
-8	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0073
-# text = Öw mêrikê owe riwerine hemame .
-1	Öw	ew	DET	_	PronType=Dem	2	det	_	_
-2	mêrikê	mêrik	NOUN	_	_	4	nsubj	_	_
-3	owe	ewe	PRON	_	Person=3|PronType=Prs	4	obj	_	_
-4	riwerine	werin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	hemame	hemam	NOUN	_	_	4	iobj	_	_
-6	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0074
-# text = Çen(d) hemperê te hestin ?
-1	Çen(d)	çend	ADV	_	_	2	advmod	_	_
-2	hemperê	hemper	NOUN	_	_	4	obj	_	_
-3	te	tu	PRON	_	Person=2|PronType=Prs	4	nsubj	_	_
-4	hestin	hestin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	?	?	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0075
-# text = Mêrike karê xwê ye .
-1	Mêrike	Mêrik	NOUN	_	_	5	nsubj	_	_
-2	karê	kar	NOUN	_	_	5	obj	_	_
-3	xwê	xwê	PART	_	_	2	nmod:poss	_	_
-4-5	ye	_	_	_	_	_	_	_	_
-4	y	y	PRON	_	Person=3|PronType=Prs	3	nmod:poss	_	_
-5	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0076
-# text = Ay xalikê dalikime .
-1	Ay	ay	DET	_	PronType=Dem	2	det	_	_
-2	xalikê	xalik	NOUN	_	_	3	nmod:poss	_	_
-3-4	dalikime	_	_	_	_	_	_	_	_
-3	dalik	dalik	NOUN	_	_	0	root	_	_
-4	ime	im	PRON	_	Person=3|PronType=Prs	3	nmod:poss	_	_
-5	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0077
+# sent_id = train_0034
 # text = Î guranîye ra dötê tu/ ti rîşim .
 1	Î	ew	DET	_	PronType=Dem	2	det	_	_
 2	guranîye	guranî	NOUN	_	_	8	obj	_	_
@@ -694,544 +291,48 @@
 8	rîşim	îşin	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = train_0078
-# text = Le î küye ay pesgele lewerî .
-1	Le	le	ADP	_	_	3	case	_	_
-2	î	bûn	DET	_	PronType=Dem	3	det	_	_
-3	küye	küye	NOUN	_	_	6	obl	_	_
-4	ay	ay	DET	_	PronType=Dem	5	det	_	_
-5	pesgele	pes	NOUN	_	_	6	obj	_	_
-6	lewerî	lewerîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0079
-# text = Le veri ay xanigele vazî rikirdîn .
-1	Le	le	ADP	_	_	2	case	_	_
-2	veri	ver	ADV	_	_	4	advmod	_	_
-3	ay	ay	DET	_	PronType=Dem	4	det	_	_
-4	xanigele	xan	NOUN	_	_	6	advcl	_	_
-5	vazî	vazî	NOUN	_	_	6	obj	_	_
-6	rikirdîn	rikirdîn	VERB	_	Aspect=Prog|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0080
-# text = Öw mêrikêye riwerine hemame .
-1	Öw	ew	DET	_	PronType=Dem	2	det	_	_
-2-3	mêrikêye	_	_	_	_	_	_	_	_
-2	mêrik	mêrik	VERB	_	_	4	nsubj	_	_
-3	êye	ê	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
-4-5	riwerine	_	_	_	_	_	_	_	_
-4	riwerin	riwerin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	e	e	ADP	_	_	6	case	_	_
-6	hemame	hemam	NOUN	_	_	4	iobj	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0081
-# text = Ewî êjneftim .
-1	Ewî	ew	PRON	_	Person=3|PronType=Prs	2	obj	_	_
-2	êjneftim	êjeftin	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+# sent_id = train_0035
+# text = Zîyane suzandimê .
+1	Zîyane	zîyan	NOUN	_	_	2	obj	_	_
+2	suzandimê	suzandin	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = train_0082
-# text = Min ewe êjneftim .
-1	Min	Min	PRON	_	Person=1|PronType=Prs	3	nsubj	_	_
-2	ewe	ewe	DET	_	PronType=Dem	3	obj	_	_
-3	êjneftim	êjeftin	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-4	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0083
-# text = Ewî çê tö riwû ?
-1	Ewî	ew	PRON	_	Person=3|PronType=Prs	4	nsubj	_	_
-2	çê	çê	ADV	_	_	4	obj	_	_
-3	tö	tö	PRON	_	Person=2|PronType=Prs	4	obl	_	_
-4	riwû	bûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	?	?	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0084
-# text = Ewî / eye / eyî tiştîkî min newû .
-1	Ewî	Ewî	DET	_	PronType=Dem	8	nsubj	_	_
-2	/	/	PUNCT	_	_	1	punct	_	_
-3	eye	eye	DET	_	PronType=Dem	8	discourse	_	_
-4	/	/	PUNCT	_	_	3	punct	_	_
-5	eyî	eyî	DET	_	PronType=Dem	8	discourse	_	_
-6	tiştîkî	tişt	NOUN	_	_	8	obj	_	_
-7	min	min	PRON	_	Person=1|PronType=Prs	6	nmod:poss	_	_
-8	newû	bûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	.	.	PUNCT	_	_	8	punct	_	_
-
-# sent_id = train_0085
-# text = Ewî eye awirdige .
-1	Ewî	ew	PRON	_	Person=3|PronType=Prs	3	nsubj	_	_
-2	eye	eye	DET	_	PronType=Dem	3	obj	_	_
-3-4	awirdige	_	_	_	_	_	_	_	_
-3	awirdig	awirdin	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	compound:lvc	_	_
-5	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0086
-# text = Îmisal eye nêkerim .
-1	Îmisal	îmisal	ADV	_	_	3	advmod	_	_
-2	eye	eye	DET	_	PronType=Dem	3	obj	_	_
-3	nêkerim	kirin	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0087
-# text = Ewe nawê germişîyage .
-1	Ewe	ew	PRON	_	Person=3|PronType=Prs	4	nsubj	_	_
-2	nawê	naw	NOUN	_	_	4	obj	_	_
-3-4	germişîyage	_	_	_	_	_	_	_	_
-3	germişîyag	germişîyag	NOUN	_	_	4	compound:lvc	_	_
-4	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0088
-# text = Genime ke rikulininê , ewe wê çe rîşin ?
-1	Genime	genim	NOUN	_	_	8	nsubj	_	_
-2	ke	ke	PART	_	_	3	nsubj	_	_
-3	rikulininê	kulinin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	ewe	ewe	DET	_	PronType=Dem	6	det	_	_
-6	wê	wê	PRON	_	Person=3|PronType=Prs	8	obl	_	_
-7	çe	çê	ADV	_	_	8	advmod	_	_
-8	rîşin	rîşin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	?	?	PUNCT	_	_	8	punct	_	_
-
-# sent_id = train_0089
-# text = Î male ê kesî nîye .
-1	Î	ew	DET	_	PronType=Dem	2	det	_	_
-2	male	mal	NOUN	_	_	5	nsubj	_	_
-3	ê	yê	DET	_	PronType=Dem	4	det	_	_
-4	kesî	kes	PRON	_	PronType=Prs	5	obl	_	_
-5	nîye	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0090
-# text = Xwasîye her karî ra vevîgel hîšt .
-1	Xwasîye	xwasî	NOUN	_	_	6	nsubj	_	_
-2	her	her	ADV	_	_	3	advmod	_	_
-3	karî	kar	NOUN	_	_	6	obj	_	_
-4	ra	ra	ADP	_	_	5	case	_	_
-5	vevîgel	vevî	NOUN	_	_	6	iobj	_	_
-6	hîšt	hîštin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0091
-# text = Jî dötgele firê tîştî îjnevitim .
-1	Jî	jî	ADP	_	_	2	case	_	_
-2	dötgele	döt	NOUN	_	_	5	obl	_	_
-3	firê	fir	ADV	_	_	4	advmod	_	_
-4	tîştî	tîşt	NOUN	_	_	5	obj	_	_
-5	îjnevitim	îjevitîn	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0092
-# text = Je eyane kançikê wisenîn ?
-1	Je	je	ADP	_	_	2	case	_	_
-2	eyane	eyane	PRON	_	Person=3|PronType=Prs	4	obl	_	_
-3	kançikê	kançik	ADV	_	_	4	obj	_	_
-4	wisenîn	senîn	VERB	_	Mood=Sub|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	?	?	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0093
-# text = Kanan wê dim ?
-1	Kanan	kanan	PRON	_	Person=3|PronType=Prs	3	obj	_	_
-2	wê	wê	ADP	_	_	3	compound:lvc	_	_
-3	dim	dan	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	?	?	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0094
-# text = Çendanî wisen !
-1	Çendanî	çend	PRON	_	Person=3|PronType=Prs	2	nsubj	_	_
-2	wisen	senîn	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	!	!	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0095
-# text = Eye zaway çoranî yane .
-1	Eye	Eye	DET	_	PronType=Prs	5	nsubj	_	_
-2	zaway	zaway	NOUN	_	_	5	obj	_	_
-3	çoranî	çoran	NUM	_	_	2	nmod:poss	_	_
-4-5	yane	_	_	_	_	_	_	_	_
-4	yan	yan	PRON	_	Person=3|PronType=Prs	3	nmod:poss	_	_
-5	e	bûn	VERB	_	Person=3|Tense=Pres	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0096
-# text = Nîmîkî şewe .
-1	Nîmîkî	nîm	NOUN	_	_	2	nmod:poss	_	_
-2	şewe	şew	NOUN	_	_	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0097
-# text = Nîmîkî rûje .
-1	Nîmîkî	nîm	NOUN	_	_	2	nmod:poss	_	_
-2	rûje	rûj	NOUN	_	_	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0098
-# text = Nîmîkê şewe .
-1	Nîmîkê	nîm	NOUN	_	_	2	nmod:poss	_	_
-2	şewe	şew	NOUN	_	_	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0099
-# text = dötê tu .
-1	dötê	döt	NOUN	_	_	0	root	_	_
-2	tu	tu	PRON	_	Person=2|PronType=Prs	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0100
-# text = Zaway ewî .
-1	Zaway	zawa	NOUN	_	_	0	root	_	_
-2	ewî	ewî	PRON	_	Person=3|PronType=Prs	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0101
-# text = Daliki min .
-1	Daliki	dalik	NOUN	_	_	0	root	_	_
-2	min	min	PRON	_	Person=1|PronType=Prs	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0102
-# text = Wowiki tu .
-1	Wowiki	wowik	NOUN	_	_	0	root	_	_
-2	tu	tu	PRON	_	Person=2|PronType=Prs	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0103
-# text = Çêwi min .
-1	Çêwi	çêw	NOUN	_	_	0	root	_	_
-2	min	min	PRON	_	Person=1|PronType=Prs	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0104
+# sent_id = train_0036
 # text = Döti xwayşikê min .
 1	Döti	döt	NOUN	_	_	0	root	_	_
 2	xwayşikê	xwayşik	NOUN	_	_	1	nmod:poss	_	_
 3	min	min	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0105
-# text = Mêrdi malê îme .
-1	Mêrdi	mêrd	ADV	_	_	0	root	_	_
-2	malê	mal	NOUN	_	_	1	nmod:poss	_	_
-3	îme	îme	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
+# sent_id = train_0037
+# text = Doxtiri jin .
+1	Doxtiri	doxtir	NOUN	_	_	0	root	_	_
+2	jin	jin	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0106
-# text = Vevîyê	mali Bazê .
-1	Vevîyê	Vevî	NOUN	_	_	0	root	_	_
-2	mali	mal	NOUN	_	_	1	nmod:poss	_	_
-3	Bazê	baz	NOUN	_	_	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0107
-# text = Feqîrê malê îme .
-1	Feqîrê	feqîr	NOUN	_	_	0	root	_	_
-2	malê	mal	NOUN	_	_	1	nmod:poss	_	_
-3	îme	îme	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0108
-# text = Ediki wowiki min .
-1	Ediki	Edik	PROPN	_	_	0	root	_	_
-2	wowiki	wowik	NOUN	_	_	1	nmod:poss	_	_
-3	min	min	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0109
-# text = Xaliki daliki tu .
-1	Xaliki	xalik	NOUN	_	_	0	root	_	_
-2	daliki	dalik	NOUN	_	_	1	nmod:poss	_	_
-3	tu	tu	PRON	_	Person=2|PronType=Prs	2	compound:lvc	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0110
-# text = Dötê rindê min .
-1	Dötê	döt	NOUN	_	_	0	root	_	_
-2	rindê	rind	ADJ	_	_	1	amod	_	_
-3	min	min	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0111
-# text = Xwayşikê gewray ewî .
-1	Xwayşikê	xwayşik	NOUN	_	_	0	root	_	_
-2	gewray	gewra	NOUN	_	_	1	nmod:poss	_	_
-3	ewî	ewî	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0112
-# text = Brangê gewray ewî .
-1	Brangê	brang	NOUN	_	_	0	root	_	_
-2	gewray	gewra	NOUN	_	_	1	nmod:poss	_	_
-3	ewî	ewî	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0113
+# sent_id = train_0038
 # text = Buğay ğizikê ewane .
 1	Buğay	buğa	NOUN	_	_	0	root	_	_
 2	ğizikê	ğizik	NOUN	_	_	1	nmod:poss	_	_
 3	ewane	ewane	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0114
-# text = Xanigê çermigê îme .
-1	Xanigê	xanûg	NOUN	_	_	0	root	_	_
-2	çermigê	çermig	NOUN	_	_	1	nmod:poss	_	_
-3	îme	îme	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
+# sent_id = train_0039
+# text = Pese je axurê îwe riderkefî .
+1	Pese	pes	ADV	_	_	5	advmod	_	_
+2	je	bûn	ADP	_	_	3	case	_	_
+3	axurê	axur	NOUN	_	_	5	nsubj	_	_
+4	îwe	îwe	PRON	_	Person=2|PronType=Prs	3	nmod:poss	_	_
+5	riderkefî	rerkeftin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = train_0115
-# text = Dötê rindem .
-1	Dötê	döt	NOUN	_	_	0	root	_	_
-2-3	rindem	_	_	_	_	_	_	_	_
-2	rinde	rind	ADJ	_	_	1	amod	_	_
-3	m	m	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0116
-# text = Î dötê rinde me .
-1	Î	ew	DET	_	PronType=Dem	2	det	_	_
-2	dötê	döt	NOUN	_	_	0	root	_	_
-3	rinde	rind	ADJ	_	_	2	amod	_	_
-4-5	me	_	_	_	_	_	_	_	_
-4	m	m	PRON	_	Person=1|PronType=Prs	3	nmod:poss	_	_
-5	e	e	DET	_	PronType=Dem	4	det	_	_
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0117
-# text = Dötê rindê min .
-1	Dötê	döt	NOUN	_	_	0	root	_	_
-2	rindê	rind	ADJ	_	_	1	amod	_	_
-3	min	min	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0118
-# text = Î dötê rinde me .
-1	Î	ew	DET	_	PronType=Dem	2	det	_	_
-2	dötê	döt	NOUN	_	_	0	root	_	_
-3	rinde	rind	ADJ	_	_	2	amod	_	_
-4-5	me	_	_	_	_	_	_	_	_
-4	m	m	PRON	_	Person=1|PronType=Prs	3	nmod:poss	_	_
-5	e	e	DET	_	PronType=Dem	4	det	_	_
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0119
-# text = Mêrike verdi kureğeli ê tu qise kird .
-1	Mêrike	Mêrik	PROPN	_	_	7	nsubj	_	_
-2	verdi	verd	ADP	_	_	3	case	_	_
-3	kureğeli	kur	NOUN	_	_	7	iobj	_	_
-4	ê	ê	ADP	_	_	5	case	_	_
-5	tu	tu	PRON	_	Person=2|PronType=Prs	3	nmod:poss	_	_
-6	qise	qise	NOUN	_	_	7	compound:lvc	_	_
-7	kird	kirin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = train_0120
-# text = Jine ke kare ê xwê ye .
-1	Jine	jin	NOUN	_	_	7	acl	_	_
-2	ke	ke	PART	_	_	7	nsubj	_	_
-3	kare	kar	NOUN	_	_	7	obj	_	_
-4	ê	ê	DET	_	PronType=Dem	5	det	_	_
-5	xwê	xwê	PRON	_	PronType=Prs|Reflex=Yes	3	nmod:poss	_	_
-6-7	ye	_	_	_	_	_	_	_	_
-6	y	y	PRON	_	Person=3|PronType=Prs	5	nmod:poss	_	_
-7	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = train_0121
-# text = Dêygeli îme .
-1	Dêygeli	dêy	NOUN	_	_	2	nsubj	_	_
-2	îme	îme	PRON	_	Person=1|PronType=Prs	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0122
-# text = Döti mîmike .
-1	Döti	döt	NOUN	_	_	0	root	_	_
-2	mîmike	mîmik	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0123
-# text = Brangi kure .
-1	Brangi	Brang	PROPN	_	_	0	root	_	_
-2	kure	kur	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0124
-# text = Şiwani male .
-1	Şiwani	şiwan	NOUN	_	_	0	root	_	_
-2	male	mal	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0125
-# text = Çêliki mirge .
-1	Çêliki	kêlik	NOUN	_	_	2	nsubj	_	_
-2	mirge	mirg	NOUN	_	_	0	root	_	_
-3	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = train_0126
-# text = Balîçeki dare .
-1	Balîçeki	Balîçek	NOUN	_	_	0	root	_	_
-2	dare	dar	NOUN	_	_	1	amod	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0127
-# text = Jinê pîrejine .
-1	Jinê	jin	NOUN	_	_	0	root	_	_
-2	pîrejine	pîrejin	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0128
-# text = Doxtirê ê jine .
-1	Doxtirê	doxtir	NOUN	_	_	0	root	_	_
-2	ê	ê	DET	_	PronType=Dem	3	det	_	_
-3	jine	jin	NOUN	_	_	1	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0129
-# text = Mêrdê qerdare .
-1	Mêrdê	Mêrd	NOUN	_	_	0	root	_	_
-2	qerdare	qerdar	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0130
-# text = Mêrdê ê qerdare .
-1	Mêrdê	Mêrd	NOUN	_	_	0	root	_	_
-2	ê	ê	DET	_	PronType=Dem	3	det	_	_
-3	qerdare	qerdar	NOUN	_	_	1	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0131
-# text = Mangay ay şewe .
-1	Mangay	manga	ADV	_	_	0	root	_	_
-2	ay	ay	DET	_	PronType=Dem	3	det	_	_
-3	şewe	şew	NOUN	_	_	1	nmod:poss	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0132
-# text = Mangay îwariğ .
-1	Mangay	manga	NOUN	_	_	0	root	_	_
-2	îwariğ	îwariğ	ADV	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0133
-# text = Dalikê rinde .
-1	Dalikê	dalik	NOUN	_	_	0	root	_	_
-2	rinde	rind	ADJ	_	_	1	amod	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0134
-# text = Dalikî rind .
-1	Dalikî	Dalik	NOUN	_	_	0	root	_	_
-2	rind	rind	ADJ	_	_	1	amod	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0135
-# text = Daliki rind .
-1	Daliki	dalik	NOUN	_	_	0	root	_	_
-2	rind	rind	ADJ	_	_	1	amod	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0136
-# text = Şewgeli dîrîş .
-1	Şewgeli	Şew	NOUN	_	_	0	root	_	_
-2	dîrîş	dîrîş	ADJ	_	_	1	amod	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0137
-# text = Kurê ê jinê bîtirse .
-1	Kurê	kur	NOUN	_	_	0	root	_	_
-2	ê	ê	DET	_	PronType=Dem	3	det	_	_
-3	jinê	jinya	NOUN	_	_	1	nmod:poss	_	_
-4	bîtirse	bîtirs	ADJ	_	_	3	amod	_	_
-5	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0138
-# text = Je malo diçime kare .
-1	Je	je	ADP	_	_	2	case	_	_
-2	malo	mal	NOUN	_	_	3	obl	_	_
-3-4	diçime	_	_	_	_	_	_	_	_
-3	diçim	çûn	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	e	e	ADP	_	_	5	case	_	_
-5	kare	kar	NOUN	_	_	3	iobj	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0139
-# text = Jinê ser / serê / serî kênîğe .
-1	Jinê	jin	NOUN	_	_	0	root	_	_
-2	ser	ser	ADV	_	_	7	advmod	_	_
-3	/	/	PUNCT	_	_	2	punct	_	_
-4	serê	ser	ADV	_	_	7	advmod	_	_
-5	/	/	PUNCT	_	_	4	punct	_	_
-6	serî	ser	ADV	_	_	7	advmod	_	_
-7	kênîğe	kênîğ	NOUN	_	_	1	nmod:poss	_	_
-8	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0140
-# text = Le veri male .
-1	Le	le	ADP	_	_	2	case	_	_
-2	veri	ver	ADV	_	_	3	advmod	_	_
-3	male	mal	NOUN	_	_	0	root	_	_
-4	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0141
-# text = Jinî rind .
-1	Jinî	Jin	NOUN	_	_	0	root	_	_
-2	rind	rind	ADJ	_	_	1	amod	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0142
+# sent_id = train_0040
 # text = Dötîkî ewî .
 1	Dötîkî	döt	NOUN	_	_	0	root	_	_
 2	ewî	ew	PRON	_	Person=3|PronType=Prs	1	nmod:poss	_	_
 3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0143
-# text = Kureykî ewî .
-1	Kureykî	kur	NOUN	_	_	0	root	_	_
-2	ewî	ew	PRON	_	Person=3|PronType=Prs	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0144
-# text = Dötîkî ewî pirz dağime wê .
-1	Dötîkî	döt	NOUN	_	_	4	nsubj	_	_
-2	ewî	ew	PRON	_	Person=3|PronType=Prs	1	nmod:poss	_	_
-3	pirz	pirz	NOUN	_	_	4	compound:lvc	_	_
-4-5	dağime	_	_	_	_	_	_	_	_
-4	dağim	dan	VERB	_	Aspect=Perf|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-5	e	e	ADP	_	_	6	case	_	_
-6	wê	ew	PRON	_	Person=3|PronType=Prs	4	iobj	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0145
-# text = Xwayşikîkê Umer hest .
-1	Xwayşikîkê	xwayşik	NOUN	_	_	3	obj	_	_
-2	Umer	Umer	PROPN	_	_	3	nsubj	_	_
-3	hest	hestin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = train_0146
-# text = Asine ke kar dikerî jeng nêgirî .
-1	Asine	Asin	PROPN	_	_	6	nsubj	_	_
-2	ke	ke	PART	_	_	4	nsubj	_	_
-3	kar	kar	NOUN	_	_	4	compound:lvc	_	_
-4	dikerî	kerîn	VERB	_	Aspect=Prog|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
-5	jeng	jeng	NOUN	_	_	6	compound:lvc	_	_
-6	nêgirî	girin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = train_0147
-# text = Î döte ke rîyay ê kîye ?
-1	Î	ew	DET	_	PronType=Dem	2	det	_	_
-2	döte	döt	NOUN	_	_	7	nsubj	_	_
-3	ke	ku	PART	_	_	4	nsubj	_	_
-4	rîyay	yayin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
-5	ê	ê	DET	_	PronType=Dem	6	det	_	_
-6-7	kîye	_	_	_	_	_	_	_	_
-6	kî	kî	PRON	_	Person=3|PronType=Prs	7	compound:lvc	_	_
-7	ye	bûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	?	?	PUNCT	_	_	7	punct	_	_
-
-# sent_id = train_0148
+# sent_id = train_0041
 # text = Xanigê çermige îmawe , ê îwe kançike ?
 1	Xanigê	Xanig	NOUN	_	_	4	obj	_	_
 2	çermige	çermig	ADJ	_	_	1	nmod:poss	_	_
@@ -1246,7 +347,294 @@
 9	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 10	?	?	PUNCT	_	_	9	punct	_	_
 
-# sent_id = train_0149
+# sent_id = train_0042
+# text = Kî ke vercê kî we kî vit rişkê !
+1	Kî	kî	PRON	_	PronType=Dem	2	nsubj	_	_
+2	ke	ketin	PART	_	_	3	discourse	_	_
+3	vercê	vercê	ADV	_	_	7	advmod	_	_
+4	kî	kî	PRON	_	PronType=Dem	7	nsubj	_	_
+5	we	we	ADP	_	_	6	case	_	_
+6	kî	ku	PRON	_	PronType=Rel	7	iobj	_	_
+7	vit	vitin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	rişkê	rişk	NOUN	_	Gender=Fem	7	obl:dat	_	_
+9	!	!	PUNCT	_	_	7	punct	_	_
+
+# sent_id = train_0043
+# text = Je malo diçime kare .
+1	Je	je	ADP	_	_	2	case	_	_
+2	malo	mal	NOUN	_	_	3	obl	_	_
+3-4	diçime	_	_	_	_	_	_	_	_
+3	diçim	çûn	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	e	e	ADP	_	_	5	case	_	_
+5	kare	kar	NOUN	_	_	3	iobj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = train_0044
+# text = Jine mêrikê .
+1	Jine	jin	NOUN	_	_	0	root	_	_
+2	mêrikê	mêrik	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0045
+# text = Daliki rind .
+1	Daliki	dalik	NOUN	_	_	0	root	_	_
+2	rind	rind	ADJ	_	_	1	amod	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0046
+# text = Doxtiri mêrd .
+1	Doxtiri	doxtir	NOUN	_	_	0	root	_	_
+2	mêrd	mêrîn	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0047
+# text = Le veri ay xanigele vazî rikirdîn .
+1	Le	le	ADP	_	_	2	case	_	_
+2	veri	ver	ADV	_	_	4	advmod	_	_
+3	ay	ay	DET	_	PronType=Dem	4	det	_	_
+4	xanigele	xan	NOUN	_	_	6	advcl	_	_
+5	vazî	vazî	NOUN	_	_	6	obj	_	_
+6	rikirdîn	rikirdîn	VERB	_	Aspect=Prog|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = train_0048
+# text = Humîre ra derdgel gî dewawe .
+1	Humîre	humîr	ADV	_	_	6	nsubj	_	_
+2	ra	ra	ADP	_	_	3	case	_	_
+3	derdgel	derd	NOUN	_	_	6	obl	_	_
+4	gî	gî	ADV	_	_	5	advmod	_	_
+5-6	dewawe	_	_	_	_	_	_	_	_
+5	dewa	dewa	NOUN	_	_	6	compound:lvc	_	_
+6	we	we	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = train_0049
+# text = Mêrdi malê îme .
+1	Mêrdi	mêrd	ADV	_	_	0	root	_	_
+2	malê	mal	NOUN	_	_	1	nmod:poss	_	_
+3	îme	îme	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0050
+# text = Ewî dikerîkê ke wikuşîk êman .
+1	Ewî	ew	PRON	_	Person=3|PronType=Prs	2	nsubj	_	_
+2	dikerîkê	kerîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+3	ke	ke	PART	_	_	4	nsubj	_	_
+4	wikuşîk	kuşîn	VERB	_	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	êman	_	_	_	_	_	_	_	_
+5	ê	wê	PART	_	_	6	nmod	_	_
+6	man	man	PRON	_	Person=1|PronType=Prs	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = train_0051
+# text = Eye wer wê re .
+1	Eye	Eye	DET	_	PronType=Dem	2	obj	_	_
+2	wer	werin	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	wê	wê	ADV	_	_	4	compound:lvc	_	_
+4	re	dan	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = train_0052
+# text = Mangay ay şewe .
+1	Mangay	manga	ADV	_	_	0	root	_	_
+2	ay	ay	DET	_	PronType=Dem	3	det	_	_
+3	şewe	şew	NOUN	_	_	1	nmod:poss	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0053
+# text = Zaway ewî .
+1	Zaway	zawa	NOUN	_	_	0	root	_	_
+2	ewî	ewî	PRON	_	Person=3|PronType=Prs	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0054
+# text = Eye zaway çoranî yane .
+1	Eye	Eye	DET	_	PronType=Prs	5	nsubj	_	_
+2	zaway	zaway	NOUN	_	_	5	obj	_	_
+3	çoranî	çoran	NUM	_	_	2	nmod:poss	_	_
+4-5	yane	_	_	_	_	_	_	_	_
+4	yan	yan	PRON	_	Person=3|PronType=Prs	3	nmod:poss	_	_
+5	e	bûn	VERB	_	Person=3|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = train_0055
+# text = Balîçeki dare .
+1	Balîçeki	Balîçek	NOUN	_	_	0	root	_	_
+2	dare	dar	NOUN	_	_	1	amod	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0056
+# text = Brangî û xwayşikîkê Umer hewî .
+1	Brangî	brang	NOUN	_	_	5	obj	_	_
+2	û	û	CCONJ	_	_	3	cc	_	_
+3	xwayşikîkê	xwayşik	NOUN	_	_	1	conj	_	_
+4	Umer	Umer	PROPN	_	_	5	nsubj	_	_
+5	hewî	hebûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = train_0057
+# text = Jine orağelê .
+1	Jine	jin	NOUN	_	_	0	root	_	_
+2	orağelê	orağ	NOUN	_	_	1	compound:lvc	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0058
+# text = Kurê ê jinê bîtirse .
+1	Kurê	kur	NOUN	_	_	0	root	_	_
+2	ê	ê	DET	_	PronType=Dem	3	det	_	_
+3	jinê	jinya	NOUN	_	_	1	nmod:poss	_	_
+4	bîtirse	bîtirs	ADJ	_	_	3	amod	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0059
+# text = Öw mêrikê owe riwerine hemame .
+1	Öw	ew	DET	_	PronType=Dem	2	det	_	_
+2	mêrikê	mêrik	NOUN	_	_	4	nsubj	_	_
+3	owe	ewe	PRON	_	Person=3|PronType=Prs	4	obj	_	_
+4	riwerine	werin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	hemame	hemam	NOUN	_	_	4	iobj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = train_0060
+# text = Mêrike karê xwê ye .
+1	Mêrike	Mêrik	NOUN	_	_	5	nsubj	_	_
+2	karê	kar	NOUN	_	_	5	obj	_	_
+3	xwê	xwê	PART	_	_	2	nmod:poss	_	_
+4-5	ye	_	_	_	_	_	_	_	_
+4	y	y	PRON	_	Person=3|PronType=Prs	3	nmod:poss	_	_
+5	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = train_0061
+# text = Vevîyê	mali Bazê .
+1	Vevîyê	Vevî	NOUN	_	_	0	root	_	_
+2	mali	mal	NOUN	_	_	1	nmod:poss	_	_
+3	Bazê	baz	NOUN	_	_	2	nmod:poss	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0062
+# text = Î döte ke rîyay ê kîye ?
+1	Î	ew	DET	_	PronType=Dem	2	det	_	_
+2	döte	döt	NOUN	_	_	7	nsubj	_	_
+3	ke	ku	PART	_	_	4	nsubj	_	_
+4	rîyay	yayin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+5	ê	ê	DET	_	PronType=Dem	6	det	_	_
+6-7	kîye	_	_	_	_	_	_	_	_
+6	kî	kî	PRON	_	Person=3|PronType=Prs	7	compound:lvc	_	_
+7	ye	bûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = train_0063
+# text = Ow mîmikeli wowikim .
+1	Ow	ow	DET	_	PronType=Dem	2	det	_	_
+2	mîmikeli	mîmik	NOUN	_	_	0	root	_	_
+3-4	wowikim	_	_	_	_	_	_	_	_
+3	wowik	wowik	NOUN	_	_	2	nmod:poss	_	_
+4	im	im	PRON	_	Person=1|PronType=Prs	3	nmod:poss	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0064
+# text = Herriğe we seri tu !
+1	Herriğe	Herriğ	NOUN	_	_	3	nsubj	_	_
+2	we	we	ADP	_	_	3	case	_	_
+3	seri	ser	NOUN	_	_	0	root	_	_
+4	tu	tu	PRON	_	Person=2|PronType=Prs	3	nmod:poss	_	_
+5	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = train_0065
+# text = Jinî rîm , weki mangi çwardê şewe .
+1	Jinî	Jin	NOUN	_	_	2	nsubj	_	_
+2	rîm	rîyin	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	weki	wek	ADV	_	_	5	advmod	_	_
+5	mangi	mang	NOUN	_	_	8	obl	_	_
+6	çwardê	çwardê	NOUN	_	_	5	nmod:poss	_	_
+7-8	şewe	_	_	_	_	_	_	_	_
+7	şew	şew	NOUN	_	_	6	amod	_	_
+8	e	bûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = train_0066
+# text = Dêygeli îme .
+1	Dêygeli	dêy	NOUN	_	_	2	nsubj	_	_
+2	îme	îme	PRON	_	Person=1|PronType=Prs	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0067
+# text = Je dö şewow variş divarî .
+1	Je	Je	ADP	_	_	2	case	_	_
+2	dö	dö	ADV	_	_	3	advmod	_	_
+3	şewow	şew	NOUN	_	_	5	obl	_	_
+4	variş	variş	NOUN	_	_	5	compound:lvc	_	_
+5	divarî	varîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = train_0068
+# text = Dötê rindê min .
+1	Dötê	döt	NOUN	_	_	0	root	_	_
+2	rindê	rind	ADJ	_	_	1	amod	_	_
+3	min	min	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0069
+# text = Mangay îwariğ .
+1	Mangay	manga	NOUN	_	_	0	root	_	_
+2	îwariğ	îwariğ	ADV	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0070
+# text = Diwînim êyan .
+1	Diwînim	wînîn	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	êyan	_	_	_	_	_	_	_	_
+2	ê	wê	ADP	_	_	3	case	_	_
+3	yan	yan	PRON	_	Person=3|PronType=Prs	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0071
+# text = Kureykî ewî .
+1	Kureykî	kur	NOUN	_	_	0	root	_	_
+2	ewî	ew	PRON	_	Person=3|PronType=Prs	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0072
+# text = Jingel rîyayn .
+1	Jingel	jin	NOUN	_	_	2	nsubj	_	_
+2	rîyayn	ya	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0073
+# text = Çêwi min .
+1	Çêwi	çêw	NOUN	_	_	0	root	_	_
+2	min	min	PRON	_	Person=1|PronType=Prs	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0074
+# text = Karker we kî rîşin ?
+1	Karker	karker	NOUN	_	_	4	obj	_	_
+2	we	we	ADP	_	_	3	case	_	_
+3	kî	ku	PRON	_	PronType=Int	4	iobj	_	_
+4	rîşin	îşîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = train_0075
+# text = Vevîgel û zawagel ( h ) awirdin .
+1	Vevîgel	Vevî	NOUN	_	_	7	nsubj	_	_
+2	û	û	CCONJ	_	_	3	cc	_	_
+3	zawagel	zawa	NOUN	_	_	1	conj	_	_
+4	(	(	PUNCT	_	_	5	punct	_	_
+5	h	h	PART	_	_	7	advmod	_	_
+6	)	)	PUNCT	_	_	5	punct	_	_
+7	awirdin	awirdin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = train_0076
+# text = Xanigê çermigê îme .
+1	Xanigê	xanig	NOUN	_	_	0	root	_	_
+2	çermigê	çermig	ADJ	_	_	1	amod	_	_
+3	îme	îmirin	PRON	_	Person=1|PronType=Prs	1	nmod:poss	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0077
 # text = Sîwgeli zerd , jê ê sörgel baştirin .
 1	Sîwgeli	Sîw	NOUN	_	_	8	nsubj	_	_
 2	zerd	zerd	NOUN	_	_	1	amod	_	_
@@ -1259,44 +647,23 @@
 8	in	in	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = train_0150
-# text = Dirani kî ? Ê Zozan .
-1	Dirani	Diran	NOUN	_	_	0	root	_	_
-2	kî	kî	PRON	_	Person=3|PronType=Dem	1	nmod:poss	_	_
-3	?	?	PUNCT	_	_	1	punct	_	_
-4	Ê	Ê	DET	_	PronType=Dem	5	det	_	_
-5	Zozan	Zozan	PROPN	_	_	1	conj	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
+# sent_id = train_0078
+# text = Asine ke kar dikerî jeng nêgirî .
+1	Asine	Asin	PROPN	_	_	6	nsubj	_	_
+2	ke	ke	PART	_	_	4	nsubj	_	_
+3	kar	kar	NOUN	_	_	4	compound:lvc	_	_
+4	dikerî	kerîn	VERB	_	Aspect=Prog|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+5	jeng	jeng	NOUN	_	_	6	compound:lvc	_	_
+6	nêgirî	girin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = train_0151
-# text = Ow vevîyê û zaway tuwe .
-1	Ow	ow	DET	_	PronType=Dem	2	det	_	_
-2	vevîyê	vevî	NOUN	_	_	0	root	_	_
-3	û	û	CCONJ	_	_	4	cc	_	_
-4	zaway	zawa	NOUN	_	_	2	conj	_	_
-5	tuwe	tu	PRON	_	Person=2|PronType=Prs	4	nmod:poss	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
+# sent_id = train_0079
+# text = Daliki min .
+1	Daliki	dalik	NOUN	_	_	0	root	_	_
+2	min	min	PRON	_	Person=1|PronType=Prs	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0152
-# text = Xwasîye û xwasîranê xwêy .
-1	Xwasîye	xwasî	NOUN	_	_	0	root	_	_
-2	û	û	CCONJ	_	_	3	cc	_	_
-3	xwasîranê	xwasîran	NOUN	_	_	1	conj	_	_
-4-5	xwêy	_	_	_	_	_	_	_	_
-4	xwê	xwê	PRON	_	PronType=Prs|Reflex=Yes	3	nmod:poss	_	_
-5	y	y	PRON	_	Person=3|PronType=Prs	4	nmod:poss	_	_
-6	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0153
-# text = Brangî û xwayşikîkê Umer hewî .
-1	Brangî	brang	NOUN	_	_	5	obj	_	_
-2	û	û	CCONJ	_	_	3	cc	_	_
-3	xwayşikîkê	xwayşik	NOUN	_	_	1	conj	_	_
-4	Umer	Umer	PROPN	_	_	5	nsubj	_	_
-5	hewî	hebûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = train_0154
+# sent_id = train_0080
 # text = Xalikeli tu û mîmîkeli tu .
 1	Xalikeli	Xalk	VERB	_	_	0	root	_	_
 2	tu	tu	PRON	_	Person=2|PronType=Prs	1	nmod:poss	_	_
@@ -1305,44 +672,237 @@
 5	tu	tu	PRON	_	Person=2|PronType=Prs	4	nmod:poss	_	_
 6	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0155
-# text = Genime ke , le bani sace swörê rikerê , ewe nawê germişîyage .
-1	Genime	genim	NOUN	_	_	14	nsubj	_	_
-2	ke	ke	PART	_	_	8	nsubj	_	_
-3	,	,	PUNCT	_	_	8	punct	_	_
-4	le	le	ADP	_	_	5	case	_	_
-5	bani	bani	ADV	_	_	6	advmod	_	_
-6	sace	sac	NOUN	_	_	8	obl	_	_
-7	swörê	swör	NOUN	_	_	8	compound:lvc	_	_
-8	rikerê	kirin	VERB	_	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	14	acl	_	_
-9	,	,	PUNCT	_	_	8	punct	_	_
-10	ewe	ewe	DET	_	PronType=Dem	14	discourse	_	_
-11-12	nawê	_	_	_	_	_	_	_	_
-11	naw	naw	NOUN	_	_	14	discourse	_	_
-12	ê	ê	PRON	_	Person=3|PronType=Prs	11	nmod:poss	_	_
-13-14	germişîyage	_	_	_	_	_	_	_	_
-13	germişîyag	germişîyag	PROPN	_	_	14	xcomp	_	_
-14	e	bûn	VERB	_	_	0	root	_	_
-15	.	.	PUNCT	_	_	14	punct	_	_
+# sent_id = train_0081
+# text = Nîmîkî şewe .
+1	Nîmîkî	nîm	NOUN	_	_	2	nmod:poss	_	_
+2	şewe	şew	NOUN	_	_	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = train_0156
-# text = Ew jî xwaşe .
-1	Ew	ew	DET	_	PronType=Dem	4	nsubj	_	_
-2	jî	jî	PART	_	_	1	nmod	_	_
-3-4	xwaşe	_	_	_	_	_	_	_	_
-3	xwaş	xwaş	NOUN	_	_	4	xcomp	_	_
-4	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
+# sent_id = train_0082
+# text = Mîzo , îwarige dîsa mîz kirdige .
+1	Mîzo	mîz	NOUN	_	Gender=Masc	6	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	îwarige	îwarig	ADV	_	_	6	advmod	_	_
+4	dîsa	dîsa	ADV	_	_	6	advmod	_	_
+5	mîz	mîz	NOUN	_	_	6	compound:lvc	_	_
+6	kirdige	kirtin	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = train_0157
-# text = Karker we kî rîşin ?
-1	Karker	karker	NOUN	_	_	4	obj	_	_
-2	we	we	ADP	_	_	3	case	_	_
-3	kî	ku	PRON	_	PronType=Int	4	iobj	_	_
-4	rîşin	îşîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# sent_id = train_0083
+# text = Jinê pîrejine .
+1	Jinê	jin	NOUN	_	_	0	root	_	_
+2	pîrejine	pîrejin	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0084
+# text = Male kunê .
+1	Male	mal	NOUN	_	_	0	root	_	_
+2-3	kunê	_	_	_	_	_	_	_	_
+2	kun	kun	NOUN	_	_	1	nmod:poss	_	_
+3	ê	ê	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0085
+# text = Dalikî rind .
+1	Dalikî	Dalik	NOUN	_	_	0	root	_	_
+2	rind	rind	ADJ	_	_	1	amod	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0086
+# text = Le î küye ay pesgele lewerî .
+1	Le	le	ADP	_	_	3	case	_	_
+2	î	bûn	DET	_	PronType=Dem	3	det	_	_
+3	küye	küye	NOUN	_	_	6	obl	_	_
+4	ay	ay	DET	_	PronType=Dem	5	det	_	_
+5	pesgele	pes	NOUN	_	_	6	obj	_	_
+6	lewerî	lewerîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = train_0087
+# text = Diranê nüyağê .
+1	Diranê	diran	NOUN	_	_	0	root	_	_
+2	nüyağê	nüyağ	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0088
+# text = Ewî çê tö riwû ?
+1	Ewî	ew	PRON	_	Person=3|PronType=Prs	4	nsubj	_	_
+2	çê	çê	ADV	_	_	4	obj	_	_
+3	tö	tö	PRON	_	Person=2|PronType=Prs	4	obl	_	_
+4	riwû	bûn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = train_0158
+# sent_id = train_0089
+# text = Jinî rind .
+1	Jinî	Jin	NOUN	_	_	0	root	_	_
+2	rind	rind	ADJ	_	_	1	amod	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0090
+# text = Xwasîye her karî ra vevîgel hîšt .
+1	Xwasîye	xwasî	NOUN	_	_	6	nsubj	_	_
+2	her	her	ADV	_	_	3	advmod	_	_
+3	karî	kar	NOUN	_	_	6	obj	_	_
+4	ra	ra	ADP	_	_	5	case	_	_
+5	vevîgel	vevî	NOUN	_	_	6	iobj	_	_
+6	hîšt	hîštin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = train_0091
+# text = Awgele ke , je herdu çeme diherikin .
+1	Awgele	aw	NOUN	_	_	7	acl	_	_
+2	ke	ke	PART	_	_	7	nsubj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	je	je	ADP	_	_	2	conj	_	_
+5	herdu	herdu	DET	_	PronType=Dem	6	det	_	_
+6	çeme	çem	NOUN	_	_	7	obj	_	_
+7	diherikin	herikin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = train_0092
+# text = Îmisal eye nêkerim .
+1	Îmisal	îmisal	ADV	_	_	3	advmod	_	_
+2	eye	eye	DET	_	PronType=Dem	3	obj	_	_
+3	nêkerim	kirin	VERB	_	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = train_0093
+# text = Şewgeli dîrîş .
+1	Şewgeli	Şew	NOUN	_	_	0	root	_	_
+2	dîrîş	dîrîş	ADJ	_	_	1	amod	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0094
+# text = Sa kefte der malêyan .
+1	Sa	sa	NOUN	_	_	2	nsubj	_	_
+2-3	kefte	_	_	_	_	_	_	_	_
+2	keft	keftin	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	e	e	ADP	_	_	4	case	_	_
+4	der	der	ADV	_	_	5	advmod	_	_
+5-6	malêyan	_	_	_	_	_	_	_	_
+5	malê	mal	NOUN	_	_	2	iobj	_	_
+6	yan	yan	PRON	_	Person=3|PronType=Prs	5	nmod:poss	_	_
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0095
+# text = Kurê ewî le çarşîye riwîninê .
+1	Kurê	kur	NOUN	_	_	5	nsubj	_	_
+2	ewî	ewî	PRON	_	Person=3|PronType=Prs	1	nmod:poss	_	_
+3	le	le	ADP	_	_	4	case	_	_
+4	çarşîye	çarşî	NOUN	_	_	5	obl	_	_
+5	riwîninê	wînîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = train_0096
+# text = Kuneyi male .
+1	Kuneyi	kune	NOUN	_	_	0	root	_	_
+2	male	mal	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0097
+# text = Î dötê rinde me .
+1	Î	ew	DET	_	PronType=Dem	2	det	_	_
+2	dötê	döt	NOUN	_	_	0	root	_	_
+3	rinde	rind	ADJ	_	_	2	amod	_	_
+4-5	me	_	_	_	_	_	_	_	_
+4	m	m	PRON	_	Person=1|PronType=Prs	3	nmod:poss	_	_
+5	e	e	DET	_	PronType=Dem	4	det	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0098
+# text = Min ewe êjneftim .
+1	Min	Min	PRON	_	Person=1|PronType=Prs	3	nsubj	_	_
+2	ewe	ewe	DET	_	PronType=Dem	3	obj	_	_
+3	êjneftim	êjeftin	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = train_0099
+# text = Çîçek dame ay jingeli îme .
+1	Çîçek	çîçek	NOUN	_	_	2	obj	_	_
+2-3	dame	_	_	_	_	_	_	_	_
+2	dam	dan	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	e	we	ADP	_	_	4	case	_	_
+4	ay	ay	DET	_	PronType=Dem	5	det	_	_
+5	jingeli	jingeli	NOUN	_	_	2	iobj	_	_
+6-7	îme	_	_	_	_	_	_	_	_
+6	îme	îme	PRON	_	Person=1|PronType=Prs	5	nmod:poss	_	_
+7	e	e	DET	_	PronType=Dem	6	det	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0100
+# text = Xanigeli xuman .
+1	Xanigeli	xanig	NOUN	_	_	0	root	_	_
+2	xuman	xuman	PRON	_	Person=1|PronType=Prs|Reflex=Yes	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0101
+# text = Brangi kure .
+1	Brangi	Brang	PROPN	_	_	0	root	_	_
+2	kure	kur	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0102
+# text = Nawçê şewe wî !
+1	Nawçê	nawçe	ADV	_	_	3	advmod	_	_
+2	şewe	şew	NOUN	_	_	1	nmod:poss	_	_
+3	wî	wîn	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = train_0103
+# text = Şiwani male .
+1	Şiwani	şiwan	NOUN	_	_	0	root	_	_
+2	male	mal	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0104
+# text = Döti mîmike .
+1	Döti	döt	NOUN	_	_	0	root	_	_
+2	mîmike	mîmik	NOUN	_	_	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0105
+# text = Jine ke kare ê xwê ye .
+1	Jine	jin	NOUN	_	_	7	acl	_	_
+2	ke	ke	PART	_	_	7	nsubj	_	_
+3	kare	kar	NOUN	_	_	7	obj	_	_
+4	ê	ê	DET	_	PronType=Dem	5	det	_	_
+5	xwê	xwê	PRON	_	PronType=Prs|Reflex=Yes	3	nmod:poss	_	_
+6-7	ye	_	_	_	_	_	_	_	_
+6	y	y	PRON	_	Person=3|PronType=Prs	5	nmod:poss	_	_
+7	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = train_0106
+# text = dötê tu .
+1	dötê	döt	NOUN	_	_	0	root	_	_
+2	tu	tu	PRON	_	Person=2|PronType=Prs	1	nmod:poss	_	_
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = train_0107
+# text = We / ra kesî mewîş !
+1	We	We	ADP	_	_	4	case	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	ra	ra	ADP	_	_	4	case	_	_
+4	kesî	kes	NOUN	_	_	5	iobj	_	_
+5	mewîş	wîşin	VERB	_	Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = train_0108
+# text = Ewî eye awirdige .
+1	Ewî	ew	PRON	_	Person=3|PronType=Prs	3	nsubj	_	_
+2	eye	eye	DET	_	PronType=Dem	3	obj	_	_
+3-4	awirdige	_	_	_	_	_	_	_	_
+3	awirdig	awirdin	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	e	ye	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	compound:lvc	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = train_0109
+# text = Mêrdgel hattigin .
+1	Mêrdgel	Mêrd	PROPN	_	_	2	nsubj	_	_
+2	hattigin	hatin	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0110
 # text = karê xwêy ke le zemanê xwêy rikî , we wê rîşin .
 1	karê	kar	NOUN	_	_	13	obj	_	_
 2-3	xwêy	_	_	_	_	_	_	_	_
@@ -1361,104 +921,76 @@
 13	rîşin	rîşin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	.	.	PUNCT	_	_	13	punct	_	_
 
-# sent_id = train_0159
-# text = Xelat ra dötgelê sendim .
-1	Xelat	xelat	NOUN	_	_	5	obj	_	_
-2	ra	ra	ADP	_	_	3	case	_	_
-3-4	dötgelê	_	_	_	_	_	_	_	_
-3	dötgel	döt	NOUN	_	_	5	iobj	_	_
-4	ê	ê	PRON	_	Person=3|PronType=Prs	3	nmod:poss	_	_
-5	sendim	sendîn	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+# sent_id = train_0111
+# text = Jî dötgele firê tîştî îjnevitim .
+1	Jî	jî	ADP	_	_	2	case	_	_
+2	dötgele	döt	NOUN	_	_	5	obl	_	_
+3	firê	fir	ADV	_	_	4	advmod	_	_
+4	tîştî	tîşt	NOUN	_	_	5	obj	_	_
+5	îjnevitim	îjevitîn	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = train_0160
-# text = Ê ke sîr nêxwarî bûwe jê nîyay .
-1	Ê	yê	PRON	_	Person=3|PronType=Prs	7	nsubj	_	_
-2	ke	ke	PART	_	_	4	nsubj	_	_
-3	sîr	sîr	NOUN	_	_	4	obj	_	_
-4	nêxwarî	xwarîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
-5	bûwe	bûwe	NOUN	_	_	7	obj	_	_
-6	jê	jê	ADP	_	_	7	case	_	_
-7	nîyay	yayîn	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = train_0161
-# text = Germatîya awe .
-1	Germatîya	germatî	NOUN	_	_	0	root	_	_
-2	awe	aw	NOUN	_	_	1	nmod:poss	_	_
+# sent_id = train_0112
+# text = Dalikê rinde .
+1	Dalikê	dalik	NOUN	_	_	0	root	_	_
+2	rinde	rind	ADJ	_	_	1	amod	_	_
 3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0162
-# text = Le germê nîmerû pes-dötînî zûre .
-1	Le	le	ADP	_	_	3	case	_	_
-2	germê	germ	ADJ	_	_	3	amod	_	_
-3	nîmerû	nîmerû	NOUN	_	_	6	obl	_	_
-4	pes-dötînî	pes-dötîn	ADJ	_	_	6	obj	_	_
-5-6	zûre	_	_	_	_	_	_	_	_
-5	zûr	zûr	ADJ	_	_	6	xcomp	_	_
-6	e	e	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
+# sent_id = train_0113
+# text = Çen(d) hemperê te hestin ?
+1	Çen(d)	çend	ADV	_	_	2	advmod	_	_
+2	hemperê	hemper	NOUN	_	_	4	obj	_	_
+3	te	tu	PRON	_	Person=2|PronType=Prs	4	nsubj	_	_
+4	hestin	hestin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = train_0163
-# text = We nehatinê ewî wê şa(r ) wîm .
-1	We	We	ADP	_	_	2	case	_	_
-2	nehatinê	hatin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
-3	ewî	ew	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
-4	wê	wê	DET	_	PronType=Dem	5	det	_	_
-5	şa(r	şar	NOUN	_	_	7	xcomp	_	_
-6	)	)	PUNCT	_	_	5	punct	_	_
-7	wîm	wîn	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = train_0164
-# text = Nan - xwardinê orağe .
-1	Nan	nan	NOUN	_	_	3	xcomp	_	_
-2	-	-	PUNCT	_	_	1	punct	_	_
-3	xwardinê	xwardin	VERB	_	Mood=Ind|Tense=Past|VerbForm=Inf	0	root	_	_
-4	orağe	orağ	NOUN	_	_	3	nmod:poss	_	_
+# sent_id = train_0114
+# text = Le naw zikîyan .
+1	Le	le	ADP	_	_	2	case	_	_
+2	naw	naw	ADV	_	_	3	advmod	_	_
+3-4	zikîyan	_	_	_	_	_	_	_	_
+3	zikî	zik	NOUN	_	_	0	root	_	_
+4	yan	yan	PRON	_	Person=3|PronType=Prs	3	nmod:poss	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = train_0165
-# text = Doxtiri jin .
-1	Doxtiri	doxtir	NOUN	_	_	0	root	_	_
-2	jin	jin	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0166
-# text = Doxtiri mêrd .
-1	Doxtiri	doxtir	NOUN	_	_	0	root	_	_
-2	mêrd	mêrîn	NOUN	_	_	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = train_0167
-# text = Doxtirê jine ke çîme wê .
-1	Doxtirê	doxtir	NOUN	_	_	2	nsubj	_	_
-2	jine	jin	NOUN	_	_	4	acl	_	_
-3	ke	ke	PART	_	_	4	nsubj	_	_
-4-5	çîme	_	_	_	_	_	_	_	_
-4	çîm	çûn	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-5	e	e	NOUN	_	_	6	case	_	_
-6	wê	wê	PRON	_	Person=3|PronType=Prs	4	iobj	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0168
-# text = Ewî xanigi rindê hestin .
-1	Ewî	Ewî	PRON	_	Person=3|PronType=Prs	4	nsubj	_	_
-2	xanigi	xanig	NOUN	_	_	4	obj	_	_
-3	rindê	rind	ADJ	_	_	2	amod	_	_
-4	hestin	hestin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = train_0169
-# text = Xanigê çermigê îme .
-1	Xanigê	xanig	NOUN	_	_	0	root	_	_
-2	çermigê	çermig	ADJ	_	_	1	amod	_	_
-3	îme	îmirin	PRON	_	Person=1|PronType=Prs	1	nmod:poss	_	_
+# sent_id = train_0115
+# text = Xwayşikê gewray ewî .
+1	Xwayşikê	xwayşik	NOUN	_	_	0	root	_	_
+2	gewray	gewra	NOUN	_	_	1	nmod:poss	_	_
+3	ewî	ewî	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = train_0170
-# text = Xanigeli xuman .
-1	Xanigeli	xanig	NOUN	_	_	0	root	_	_
-2	xuman	xuman	PRON	_	Person=1|PronType=Prs|Reflex=Yes	1	nmod:poss	_	_
-3	.	.	PUNCT	_	_	1	punct	_	_
+# sent_id = train_0116
+# text = Xanigê çermigê îme .
+1	Xanigê	xanûg	NOUN	_	_	0	root	_	_
+2	çermigê	çermig	NOUN	_	_	1	nmod:poss	_	_
+3	îme	îme	PRON	_	Person=1|PronType=Prs	2	nmod:poss	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
 
+# sent_id = train_0117
+# text = Öw mêrikêye riwerine hemame .
+1	Öw	ew	DET	_	PronType=Dem	2	det	_	_
+2-3	mêrikêye	_	_	_	_	_	_	_	_
+2	mêrik	mêrik	VERB	_	_	4	nsubj	_	_
+3	êye	ê	PRON	_	Person=3|PronType=Prs	2	nmod:poss	_	_
+4-5	riwerine	_	_	_	_	_	_	_	_
+4	riwerin	riwerin	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	e	e	ADP	_	_	6	case	_	_
+6	hemame	hemam	NOUN	_	_	4	iobj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = train_0118
+# text = Ewî êjneftim .
+1	Ewî	ew	PRON	_	Person=3|PronType=Prs	2	obj	_	_
+2	êjneftim	êjeftin	VERB	_	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = train_0119
+# text = Î dötê rinde me .
+1	Î	ew	DET	_	PronType=Dem	2	det	_	_
+2	dötê	döt	NOUN	_	_	0	root	_	_
+3	rinde	rind	ADJ	_	_	2	amod	_	_
+4-5	me	_	_	_	_	_	_	_	_
+4	m	m	PRON	_	Person=1|PronType=Prs	3	nmod:poss	_	_
+5	e	e	DET	_	PronType=Dem	4	det	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_

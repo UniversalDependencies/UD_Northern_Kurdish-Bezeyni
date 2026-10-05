@@ -32,16 +32,16 @@ UD Northern Kurdish-Bezeyni is a treebank of Northern Kurdish (Bezeyni, ISO 639-
 
 | Split | Sentences | Tokens |
 |---|---:|---:|
-| Train | 170 | 889 |
-| Dev   | 170 | 889 |
-| Test  | 170 | 889 |
-| **Total** | **510** | **2667** |
+| Train | 119 | 600 |
+| Dev   | 26 | 149 |
+| Test  | 25 | 140 |
+| **Total** | **170** | **889** |
 
 ## Data splits
 
-- kmr_bezeyni-ud-train.conllu - training data (170 sentences, 889 tokens)
-- kmr_bezeyni-ud-dev.conllu   - development data (170 sentences, 889 tokens)
-- kmr_bezeyni-ud-test.conllu  - test data (170 sentences, 889 tokens)
+- kmr_bezeyni-ud-train.conllu - training data (119 sentences, 600 tokens)
+- kmr_bezeyni-ud-dev.conllu   - development data (26 sentences, 149 tokens)
+- kmr_bezeyni-ud-test.conllu  - test data (25 sentences, 140 tokens)
 
 ## Acknowledgments
 
@@ -55,29 +55,30 @@ The linguistic data in this treebank was collected and analyzed by Cemile Celebi
 
 ## Changelog
 
+- **2026-10-05:** Corrected train/dev/test split. Previously all three files contained the same 170 sentences; now the splits are genuinely disjoint. Regenerated statistics.
 - **2026-10-05:** Initial preparation for UD submission.
 
 ## Citation
 
 If you use this treebank, please cite both the treebank and the original data source:
-
 @misc{ud_northern_kurdish_bezeyni,
-  title        = {UD Northern Kurdish-Bezeyni},
-  author       = {Hiwa and Celebi, Cemile},
-  year         = {2026},
-  howpublished = {Universal Dependencies},
-  note         = {Northern Kurdish (kmr), Bezeyni variety},
-  url          = {https://github.com/UniversalDependencies/UD_Northern_Kurdish-Bezeyni}
+title = {UD Northern Kurdish-Bezeyni},
+author = {Hiwa and Celebi, Cemile},
+year = {2026},
+howpublished = {Universal Dependencies},
+note = {Northern Kurdish (kmr), Bezeyni variety},
+url = {https://github.com/UniversalDependencies/UD_Northern_Kurdish-Bezeyni}
 }
 
 @mastersthesis{celebi2021bezeyni,
-  author       = {Celebi, Cemile},
-  title        = {Zur Frage des grammatischen Genus im Bezeyni-Kurdischen: Eine empirische Untersuchung am Beispiel der Turin-Varietaet},
-  school       = {Goethe-Universitaet Frankfurt},
-  year         = {2021},
-  type         = {Unpublished Master's thesis},
-  address      = {Frankfurt am Main, Germany}
+author = {Celebi, Cemile},
+title = {Zur Frage des grammatischen Genus im Bezeyni-Kurdischen: Eine empirische Untersuchung am Beispiel der Turin-Varietaet},
+school = {Goethe-Universitaet Frankfurt},
+year = {2021},
+type = {Unpublished Master's thesis},
+address = {Frankfurt am Main, Germany}
 }
+
 
 ## License
 
