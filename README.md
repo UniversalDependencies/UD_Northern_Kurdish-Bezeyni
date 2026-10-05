@@ -45,7 +45,7 @@ UD Northern Kurdish-Bezeyni is a treebank of Northern Kurdish (Bezeyni, ISO 639-
 
 ## Acknowledgments
 
-The linguistic data in this treebank was collected and analyzed by Cemile Celebi as part of her MA thesis at Goethe-Universitaet Frankfurt (2021). The UD annotation was carried out by Hiwa. We thank the eight Bezeyni native-speaker women from Turin village who provided the original language data.
+The linguistic data in this treebank was collected and analyzed by Cemile Celebi as part of her MA thesis at Goethe-Universitaet Frankfurt (2021). The UD annotation was carried out by Hiwa. Annemarie Verkerk provided supervision and coordination. We thank the eight Bezeyni native-speaker women from Turin village who provided the original language data.
 
 ## Known issues
 

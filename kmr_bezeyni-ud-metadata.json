@@ -1,23 +1,23 @@
 {
-  "language": "Northern Kurdish",
-  "treebank_name": "UD Northern Kurdish-Bezeyni",
-  "license": "CC BY-SA 4.0",
-  "genre": "grammar examples",
-  "data_provider": "Cemile Celebi",
-  "ud_annotator": "Hiwa",
-  "contributors": [
-    "Cemile Celebi (data collection and linguistic analysis)",
-    "Hiwa (UD annotation and treebank preparation)"
-  ],
-  "contact": "hiwa@example.com",
-  "data_source": "Celebi, Cemile (2021). Zur Frage des grammatischen Genus im Bezeyni-Kurdischen: Eine empirische Untersuchung am Beispiel der Turin-Varietaet. Unpublished MA thesis, Goethe-Universitaet Frankfurt. Data collected from 8 Bezeyni native-speaker women from Turin village, Haymana district, Ankara province, Turkey.",
-  "sentences_train": 119,
-  "sentences_dev": 26,
-  "sentences_test": 25,
-  "tokens_train": 602,
-  "tokens_dev": 147,
-  "tokens_test": 140,
-  "total_sentences": 170,
-  "total_tokens": 889
+    "language":  "Northern Kurdish",
+    "treebank_name":  "UD Northern Kurdish-Bezeyni",
+    "license":  "CC BY-SA 4.0",
+    "genre":  "grammar examples",
+    "data_provider":  "Cemile Celebi",
+    "ud_annotator":  "Hiwa",
+    "contributors":  [
+                         "Hiwa (UD annotation and treebank preparation)",
+                         "Cemile Celebi (data collection and linguistic analysis)",
+                         "Annemarie Verkerk (supervision)"
+                     ],
+    "contact":  "hiwa@example.com",
+    "data_source":  "Celebi, Cemile (2021). Zur Frage des grammatischen Genus im Bezeyni-Kurdischen: Eine empirische Untersuchung am Beispiel der Turin-Varietaet. Unpublished MA thesis, Goethe-Universitaet Frankfurt. Data collected from 8 Bezeyni native-speaker women from Turin village, Haymana district, Ankara province, Turkey.",
+    "sentences_train":  119,
+    "sentences_dev":  26,
+    "sentences_test":  25,
+    "tokens_train":  602,
+    "tokens_dev":  147,
+    "tokens_test":  140,
+    "total_sentences":  170,
+    "total_tokens":  889
 }
-
