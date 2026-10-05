@@ -1,0 +1,22 @@
+{
+  "language": "Northern Kurdish",
+  "treebank_name": "UD Northern Kurdish-Bezeyni",
+  "license": "CC BY-SA 4.0",
+  "genre": "grammar examples",
+  "data_provider": "Cemile Celebi",
+  "ud_annotator": "Hiwa",
+  "contributors": [
+    "Cemile Celebi (data collection and linguistic analysis)",
+    "Hiwa (UD annotation and treebank preparation)"
+  ],
+  "contact": "hiwa@example.com",
+  "data_source": "Celebi, Cemile (2021). Zur Frage des grammatischen Genus im Bezeyni-Kurdischen: Eine empirische Untersuchung am Beispiel der Turin-Varietaet. Unpublished MA thesis, Goethe-Universitaet Frankfurt. Data collected from 8 Bezeyni native-speaker women from Turin village, Haymana district, Ankara province, Turkey.",
+  "sentences_train": 170,
+  "sentences_dev": 170,
+  "sentences_test": 170,
+  "tokens_train": 889,
+  "tokens_dev": 889,
+  "tokens_test": 889,
+  "total_sentences": 510,
+  "total_tokens": 2667
+}
